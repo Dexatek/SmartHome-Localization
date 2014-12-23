@@ -364,3 +364,4 @@
 "Settings_Account_ChangePassword_Ummatch" = "New password confirm failed\n";
 "Settings_Account_ChangePassword_Success" = "Password change success";
 "Settings_Account_ChangePassword_Failed" = "Password change failed";
+"Setting_GatewayManagement_DeleteAlert_t" = "Failed to Delete ΣCentral";
