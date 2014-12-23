@@ -426,3 +426,4 @@
 "Settings_Account_ChangePassword_Ummatch" = "密碼不符\n";
 "Settings_Account_ChangePassword_Success" = "密碼更改成功";
 "Settings_Account_ChangePassword_Failed" = "密碼更改失敗";
+"Setting_GatewayManagement_DeleteAlert_t" = "裝置移除失敗";
