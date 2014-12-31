@@ -1,7 +1,7 @@
 "Intro_Page1_Welcome_t" = "Welcome to \nΣCasa";
 "Intro_Page1_Welcome_d" = "Temperature and Humidity monitoring \nPower switch\nLighting control \nDoor and Window monitoring";
 "Intro_Page2_Registration_t" = "Register to ΣCasa\nEmbrace the future new life";
-"Intro_Page2_Registration_d" = "ΣCasa has the ability to enable you connect and control your home devices locally and remotely. Registration is easy and allow you to share device control permission to your family member.";
+"Intro_Page2_Registration_d" = "ΣCasa has the ability to enable you to connect and control your home devices locally and remotely. Registration is easy and allow you to share device control permission to your family member.";
 "Intro_Page3_Feature_t" = "ΣCasa\nSupporting variety of peripheral types";
 "Intro_Page3_Feature_d" = "ΣWeatherCube - Local Weather Station\nΣPowerPlug - Power Control And Monitoring\nΣLight - Lightning Control\nΣDoor - Security and Monitoring";
 "Settings_Account_t" = "Account settings";
@@ -20,7 +20,7 @@
 "Setting_AddGateway_NoGPS_d3" = "3. Confirm activation of the \"Locate\" function";
 "Setting_AddGateway_NoGPS_d4" = "4. Slide down to this App location";
 "Setting_AddGateway_NoGPS_d5" = "5. Confirm location activation of this App";
-"Setting_AddGateway_Step1_d" = "Please place the ΣCentral at the center of your home to maintain good communication. Please tap next to continue";
+"Setting_AddGateway_Step1_d" = "Please place the ΣCentral at the center of your home to maintain good communication. Please tap 'Next' to continue.";
 "Setting_AddGateway_Step2_d" = "Confirm proper power connection for ΣCentral. Press and hold the middle button on the ΣCentral for 3 seconds until the indicator light flashes.";
 "Setting_AddGateway_Step3_t" = "WiFi configuration";
 "Setting_AddGateway_Step3_d1" = "Your current network connection \n「 %@ 」";
@@ -30,8 +30,8 @@
 "Setting_AddGateway_Step3_d5" = "Network Selection";
 "Setting_AddGateway_Step3_d6" = "Other";
 "Setting_AddGateway_Step4_d1" = "The newly added ΣCentral will be configured to this location %@";
-"Setting_AddGateway_Step4_d2" = "Location name: ";
-"Setting_AddGateway_Step5_d1" = "ΣCentral setup has completed";
+"Setting_AddGateway_Step4_d2" = "Location Name: ";
+"Setting_AddGateway_Step5_d1" = "ΣCentral Setup Completed";
 "Setting_AddGateway_Step5_d2" = "You can now name your ΣCentral";
 "Setting_AddGatewayDev_Main_t" = "New Device";
 "Setting_AddGateway_Step_t" = "Installation guide";
@@ -39,11 +39,11 @@
 "Setting_AddGateway_Step_Confirm" = "Confirm";
 "Setting_AddGatewayDev_Main_d1" = "What type of device would you like to add?";
 "Setting_AddGatewayDev_Main_d2" = "ΣCentral";
-"Setting_AddGatewayDev_Main_d3" = "Your smart housekeeper. With this product, you can leave your house and use an APP to control the various peripheral at home remotely, allowing you to make your busy life smarter.";
+"Setting_AddGatewayDev_Main_d3" = "Your smart housekeeper. With this product, you can control various peripheral remotely while you are not at home, allowing you to make your busy life smarter and easier.";
 "Setting_AddGatewayDev_Main_d4" = "ΣCentral support peripherals";
 
 /*Revise - User can do remote control after they paired the peripherals to Central*/
-"Setting_AddGatewayDev_Main_d5" = "When you have ΣCentral, you can connect these peripherals to it, and then use the convenient remote control functions.";
+"Setting_AddGatewayDev_Main_d5" = "When you have ΣCentral, you can connect these peripherals to it to enable remote control functionalities.";
 "Setting_AddPeripheral_Main_t" = "New Device";
 "Setting_AddPeripheral_Main_d1" = "Please select your peripheral that you would like to pair to ΣCentral";
 "Setting_AddPeripheral_Confirm" = "Confirm";
@@ -51,12 +51,12 @@
 "Setting_AddPeripheral_PowerPlugName" = "ΣPowerPlug";
 "Setting_AddPeripheral_LightName" = "ΣLight";
 "Setting_AddPeripheral_DoorName" = "ΣDoor";
-"Setting_AddPeripheral_WeatherDescription" = "Regardless where you are located, you can check the temperature, humidity, and air quality at your home. ΣWeatherCube can look after your family";
+"Setting_AddPeripheral_WeatherDescription" = "Regardless where you are located, you can check the temperature, humidity, and air quality at your home. ΣWeatherCube can look after your family.";
 "Setting_AddPeripheral_PowerPlugDescription" = "ΣPowerPlug is a good helper to control and monitor your home's electricity consumption.";
 
 /*Revise - Doesn't sound right with the translation*/
-"Setting_AddPeripheral_LightDescription" = "The basic feature of Smart home, control the light switch remotely or smartly to let your family feel the warmth from the lights. ";
-"Setting_AddPeripheral_DoorDescription" = "Can be installed at the sides of doors or windows, detect whether a door or window has been opened or closed, and send notifications";
+"Setting_AddPeripheral_LightDescription" = "The basic feature of Smart home, control the light remotely while you are at home or away from home. ";
+"Setting_AddPeripheral_DoorDescription" = "Can be installed at the sides of doors/windows, notification will be sent if ΣCentral detect whether a door/window has been opened or closed.";
 
 /*Revise - Down't sound right at the end of the sentence*/
 "Setting_AddPeripheral_UnknownDescription" = "ΣCentral can control the supported peripheral through the Internet remotely, allowing your smart home to be enhanced further";
@@ -73,7 +73,7 @@
 "WeatherCube_Cell_HumidityShort" = "Humidity";
 "WeatherCube_Cell_ATMShort" = "Air Pressure";
 "WeatherCube_Cell_ Uncategorized" = "Uncategorized";
-"Setting_GatewayManagement_t" = "Device management";
+"Setting_GatewayManagement_t" = "Device Management";
 "Setting_GatewayManagement_GatewayForTotal" = "ΣCentral";
 "Setting_GatewayManagement_PeripheralForTotal" = "Peripheral";
 "Setting_GatewayManagement_RegionUnnamed" = "Unnamed region";
@@ -93,7 +93,7 @@
 "Setting_GatewayManagement_Control_GenericCancel" = "Cancel";
 "Setting_GatewayManagement_Control_GenericConfirm" = "Confirm";
 "Setting_GatewayManagement_GControl_Remove_t" = "Remove ΣCentral";
-"Setting_GatewayManagement_GControl_Remove_d" = "You have confirmed to remove the ΣCentral from 「%@」\nAttention! All of the peripheral connected to the ΣCentral will also be removed and must be re-paired before they can be used.";
+"Setting_GatewayManagement_GControl_Remove_d" = "You are about to remove the ΣCentral from「%@」\nAttention! All of the peripheral connected to the ΣCentral will also be removed and must be re-paired before they can be used again.";
 "Setting_GatewayManagement_GControl_ChangeWifi_Step1_t" = "Reconfigure the ΣCentral's WiFi";
 "Setting_GatewayManagement_GControl_ChangeWifi_Step1_d" = "Please press and hold the center button on the ΣCentral for 3 seconds until the indicator light flashes quickly to reconfigure the ΣCentral's network connections.";
 "Setting_GatewayManagement_GControl_ChangeWifi_Step2_t" = "WiFi configuration";
@@ -186,7 +186,7 @@
 "Setting_AddPeripheral_Step3_FoundAndParing_d2" = "Peripheral that can be paired to the ΣCentral at %@ has been found. In the future, you can remotely control the peripheral(s) with you mobile devices.";
 "Setting_AddPeripheral_Step4_d1" = "Completed";
 "Setting_AddPeripheral_Step4_d2" = "Now, you can begin to use your new device";
-"Setting_AddPeripheral_Step4_d3" = "Setup has completed";
+"Setting_AddPeripheral_Step4_d3" = "Setup Completed";
 "Setting_AddPeripheral_Fail_WeatherCube_t" = "ΣWeatherCube\nSetup is not successful";
 "Setting_AddPeripheral_Fail_PowerPlug_t" = "ΣPowerplug\nSetup is not successful";
 "Setting_AddPeripheral_Fail_Light_t" = "ΣLight\nSetup is not successful";
@@ -213,14 +213,14 @@
 "Device_MainView_RegionGatewayDistance" = "Distance";
 "Device_MainView_RegionGatewayDistance_MeterShort" = "Meter";
 "Device_MainView_RegionGatewayDistance_KiloMeterShort" = "KM";
-"Device_RegionDropDownView_RegionSelection" = "Select the region";
+"Device_RegionDropDownView_RegionSelection" = "Select your region";
 "Device_RegionDropDownView_LoginUser" = "Logged in user";
 "Device_RegionDropDownView_SystemName" = "ΣCasa";
 "Device_RegionDropDownView_TotalGateways" = "ΣCentral";
 "Device_RegionDropDownView_TotalPeripherals" = "Peripheral";
 "Setting_MainPage_t" = "Settings";
 "Setting_MainPage_UserNameAnonymous" = "Anonymous User";
-"Setting_MainPage_GatewayDevManagement" = "Device management";
+"Setting_MainPage_GatewayDevManagement" = "Device Management";
 "Setting_MainPage_AboutSystem" = "About ΣCasa";
 "Setting_MainPage_ContactUs" = "Contact us";
 "Setting_MainPage_FAQ" = "  FAQ  ";
@@ -301,8 +301,8 @@
 "Setting_AddGateway_FAQ" = "  FAQ  ";
 "Weather_Preview_WeatherCondition" = "Weather Condition";
 "Setting_AddPeripheral_UnknownDescription_h" = "The smartest housekeeper for your family";
-"Setting_AddPeripheral_DoorDescription_h" = "Home security guard ";
-"Setting_AddPeripheral_LightDescription_h" = "The lamp that illuminates the family ";
+"Setting_AddPeripheral_DoorDescription_h" = "Home Security Guard ";
+"Setting_AddPeripheral_LightDescription_h" = "The lamp that illuminates your family ";
 "Setting_AddPeripheral_PowerPlugDescription_h" = "Guardian of electrical appliances";
 "Setting_AddPeripheral_WeatherDescription_h" = "Indoor comfort indicator";
 "Phone_Setting_Required_t_header" = "OOPS..";
@@ -365,3 +365,9 @@
 "Settings_Account_ChangePassword_Success" = "Password change success";
 "Settings_Account_ChangePassword_Failed" = "Password change failed";
 "Setting_GatewayManagement_DeleteAlert_t" = "Failed to Delete ΣCentral";
+"Peripheral_Setting_Environment_Notification" = "Update History Data";
+"Peripheral_Setting_PowerPlug_Notification" = "Update History Data";
+"Peripheral_Setting_Alert_Failed" = "Set Schedule Job Failed";
+"Peripheral_Setting_Alert_Confirm" = "Confirm";
+"Device_GroupControl_Alert_Rename_Cancel" = "Cancel";
+"Device_GroupControl_Alert_Rename_Done" = "Done";
