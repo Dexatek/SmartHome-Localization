@@ -427,3 +427,9 @@
 "Settings_Account_ChangePassword_Success" = "密碼更改成功";
 "Settings_Account_ChangePassword_Failed" = "密碼更改失敗";
 "Setting_GatewayManagement_DeleteAlert_t" = "裝置移除失敗";
+"Peripheral_Setting_Environment_Notification" = "定期更新歷史資料";
+"Peripheral_Setting_PowerPlug_Notification" = "定期更新歷史資料";
+"Peripheral_Setting_Alert_Failed" = "設定排程失敗";
+"Peripheral_Setting_Alert_Confirm" = "確定";
+"Device_GroupControl_Alert_Rename_Cancel" = "取消";
+"Device_GroupControl_Alert_Rename_Done" = "完成";
