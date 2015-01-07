@@ -173,7 +173,7 @@
 "Intro_Bar_SkipAndExplore" = "Skip";
 "Setting_AddPeripheral_Step1_WeatherCube" = "Please place the ΣWeatherCube at the detection location and ensure it is placed within 10m from ΣCentral.";
 "Setting_AddPeripheral_Step1_PowerPlug" = "Please install the ΣPowerPlug on the electrical socket where you want to control and detect power consumption. Make sure it is placed within 10m from ΣCentral.";
-"Setting_AddPeripheral_Step1_Light" = "Please install the ΣLight on the lamp holder and tighten it. Make sure it is placed within 10m from ΣCentral.";
+"Setting_AddPeripheral_Step1_Light" = "Please make sure the desired install location of ΣLight is within 10m from ΣCentral. Do not yet install it on the lamp holder.";
 
 /*Revise - the first sentence*/
 "Setting_AddPeripheral_Step1_Door" = "Please install the ΣDoor on the doors/windows, make sure that they are tightly closed and shut, and ensure it is placed within 10m from ΣCentral.";
@@ -181,7 +181,7 @@
 "Setting_AddPeripheral_Step2_Paring_t" = "Please follow the instructions below to complete the pairing procedure";
 "Setting_AddPeripheral_Step2_Paring_WeatherCube_d" = "Please use a pin to press the ΣWeatherCube reset/pairing button for three seconds until the LED light flashes";
 "Setting_AddPeripheral_Step2_Paring_PowerPlug_d" = "Please press and hold the ΣPowerPlug for three seconds until the LED light flashes";
-"Setting_AddPeripheral_Step2_Paring_Light_d" = "After the ΣLight is properly installed, please turn On & Off the light switch 3 times until light flashes and wait until the device is detected by ΣCentral.";
+"Setting_AddPeripheral_Step2_Paring_Light_d" = "Please move the switch on the ΣLight to the 'Opposite' side, install it on the lamp place holder and turn on the power. ΣLight will flash for 3 times indicating reset is successful.";
 "Setting_AddPeripheral_Step2_Paring_Door_d" = "Please use a pin to press ΣDoor reset/pairing button for three seconds until the LED light flashes";
 "Setting_AddPeripheral_Step3_FoundAndParing_d2" = "Peripheral that can be paired to the ΣCentral at %@ has been found. In the future, you can remotely control the peripheral(s) with you mobile devices.";
 "Setting_AddPeripheral_Step4_d1" = "Completed";
@@ -223,7 +223,7 @@
 "Setting_MainPage_GatewayDevManagement" = "Device Management";
 "Setting_MainPage_AboutSystem" = "About ΣCasa";
 "Setting_MainPage_ContactUs" = "Contact us";
-"Setting_MainPage_FAQ" = "  FAQ  ";
+"Setting_MainPage_FAQ" = "FAQ";
 "Setting_MainPage_AddGatewayDev" = "Add ΣCentral / Peripheral";
 "Setting_ContactUs_MailSubject" = "OEO Design Customer Support";
 "Setting_ContactUs_NoEmailAccount_t" = "E-Mail account has not been configured";
@@ -365,9 +365,33 @@
 "Settings_Account_ChangePassword_Success" = "Password change success";
 "Settings_Account_ChangePassword_Failed" = "Password change failed";
 "Setting_GatewayManagement_DeleteAlert_t" = "Failed to Delete ΣCentral";
-"Peripheral_Setting_Environment_Notification" = "Update History Data";
-"Peripheral_Setting_PowerPlug_Notification" = "Update History Data";
+"Peripheral_Setting_Environment_Notification" = "Update To History Data";
+"Peripheral_Setting_PowerPlug_Notification" = "Update To History Data";
 "Peripheral_Setting_Alert_Failed" = "Set Schedule Job Failed";
 "Peripheral_Setting_Alert_Confirm" = "Confirm";
 "Device_GroupControl_Alert_Rename_Cancel" = "Cancel";
 "Device_GroupControl_Alert_Rename_Done" = "Done";
+"FAQ_Central_Question_0" = "Failed to add ΣCentral, setup is not successful";
+"FAQ_Central_Question_1" = "ΣCentral status icon indicator is red (Offline), how do i recover its connection?";
+"FAQ_Central_Question_2" = "I have multiple ΣCentral, how do i identify specific ΣCentral that i have?";
+"FAQ_Central_Question_3" = "How do i remove ΣCentral?";
+"FAQ_Central_Question_4" = "I changed my router or SSID name/password, how do i setup/change my already installed ΣCentral Wifi connection?";
+"FAQ_Central_Answer_0" = "Please make sure ΣCentral is not already added to other account, if adding ΣCentral to different account is needed, please remove corresponding ΣCentral first from Setting->DeviceManager (Tap on the ΣCentral for drop down menu selection). If you are adding this ΣCentral for first time, please replug the power and repeat the add ΣCentral process.";
+"FAQ_Central_Answer_1" = "This indicate ΣCentral is not responding to server, please check if ΣCentral is properly powered and make sure ΣCentral Wifi connection is working properly. Try re-powering ΣCentral if needed.";
+"FAQ_Central_Answer_2" = "Please go to Setting->DeviceManager, tap on the ΣCentral you want to identify to open the drop down menu, and tap \"FindMe\" icon. You should be able to see ΣCentral main LED flashes for few seconds.";
+"FAQ_Central_Answer_3" = "Please go to Setting->DeviceManager, tap on the ΣCentral you want to remove to open the drop down menu, and tap \"Remove\" icon.\nWARNING: Removing ΣCentral will also remove all peripheral that is paired to it.";
+"FAQ_Central_Answer_4" = "Please go to Setting->DeviceManager, tap on the ΣCentral you want to change Wifi configuration to open the drop down menu, and tap \"Wifi\" icon.";
+"FAQ_Peripheral_Question_0" = "Failed to add ΣCasa Peripheral, setup is not successful";
+"FAQ_Peripheral_Question_1" = "How do i extend ΣCasa Peripheral's control distance? Currently is showing control via Bluetooth but the distance is limited.";
+"FAQ_Peripheral_Question_2" = "ΣCasa Peripheral's icon status indicator is red (Offline). How do i recover?";
+"FAQ_Peripheral_Question_3" = "After reseting ΣCasa Peripheral, why does the App ask me to re-enter the PinCode?";
+"FAQ_Peripheral_Question_4" = "How do I know if ΣCasa Peripheral's running out of battery?";
+"FAQ_Peripheral_Question_5" = "I have many ΣCasa Peripheral. How do i identify specific Peripheral?";
+"FAQ_Peripheral_Question_6" = "How do i remove ΣCasa Peripheral?";
+"FAQ_Peripheral_Answer_0" = "Please check the following:\n1) Make sure ΣCasa Peripheral is powered (if its battery powered please replace the battery).\n2) ΣCasa Peripheral work best around ΣCentral, make sure its within adequate proximity.\n3) ΣCasa is operational.\n4) Please try adding the Peripheral again.";
+"FAQ_Peripheral_Answer_1" = "You can extend the distance by adding your Peripheral to ΣCentral, with ΣCentral you can control/monitor your Peripheral anywhere around the world.";
+"FAQ_Peripheral_Answer_2" = "This indicate current Peripheral is not responding, please check the following:\n1) If Peripheral is not added to ΣCentral, make sure your mobile phone's Bluetooth is enabled and is within the proximity of Peripheral you want to control.\n2) If Peripheral was added to ΣCentral, make sure ΣCentral is operational.\n3) If none of above work please re-power your Peripheral (replace battery if its battery powered device).";
+"FAQ_Peripheral_Answer_3" = "Upon Peripheral reset, the security will also be cleared. Therefore, it is necessary to enter the PinCode to re-establish secure connection for maximum protection against intruder.";
+"FAQ_Peripheral_Answer_4" = "Battery powered ΣCasa Peripheral will show low battery indicator on the lower left hand corner of Peripheral's view on the main page.";
+"FAQ_Peripheral_Answer_5" = "Please go to Setting->DeviceManager, tap on the ΣCasa Peripheral you want to identify to open the drop down menu, and tap \"FindMe\" icon. You should be able to see Peripheral main LED flashes for few seconds.";
+"FAQ_Peripheral_Answer_6" = "Please go to Settings->DeviceManager, tap on the ΣCasa Peripheral you want to remove to open the drop down menu, and tap \"Remove\" icon.";
