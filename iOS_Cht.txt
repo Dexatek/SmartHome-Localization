@@ -183,16 +183,16 @@
 "Intro_Bar_SkipAndExplore" = "跳過/探索";
 
 /*Fuzzy*/
-"Setting_AddPeripheral_Step1_WeatherCube" = "請將ΣWeatherCube 放置你要偵測的位置。提醒你，ΣWeatherCube 最好與ΣCentral 保持10m內有效距離";
+"Setting_AddPeripheral_Step1_WeatherCube" = "請將ΣWeatherCube 放置你要偵測的位置。請注意ΣWeatherCube 最好與ΣCentral 需要保持10M內良好通信距離";
 
 /*Fuzzy*/
-"Setting_AddPeripheral_Step1_PowerPlug" = "請將ΣPowerPlug 安裝在你要偵測家電的插頭插座。請確認 ΣPowerPlug 與ΣCentral 保持10M內良好通信距離";
+"Setting_AddPeripheral_Step1_PowerPlug" = "請將ΣPowerPlug 安裝在你要偵測家電的插頭插座。請注意 ΣPowerPlug 與ΣCentral 需要保持10M內良好通信距離";
 
 /*Fuzzy*/
-"Setting_AddPeripheral_Step1_Light" = "請將ΣLight 安裝在燈座上並旋緊。提醒你請確認ΣLight 與ΣCentral 保持10M內良好通信距離";
+"Setting_AddPeripheral_Step1_Light" = "請先找好你要置換ΣLight的燈座，取下舊燈泡後並關上燈光開關。請注意ΣLight 與ΣCentral 需要保持10M內良好通信距離";
 
 /*Fuzzy*/
-"Setting_AddPeripheral_Step1_Door" = "請將門/窗關上,並安置好ΣDoor，確認他們是否在閉上狀態是緊連的並請確認ΣDoor與ΣCentral 保持10m內良好通信距離";
+"Setting_AddPeripheral_Step1_Door" = "請將門/窗關上,並安置好ΣDoor，確認他們是否在閉上狀態是緊連的。請注意ΣDoor與ΣCentral 需要保持10m內良好通信距離";
 
 /*Fuzzy*/
 "Setting_AddPeripheral_Step2_GatewayCollecting" = "ΣCentral 已在搜尋中...";
@@ -207,7 +207,7 @@
 "Setting_AddPeripheral_Step2_Paring_PowerPlug_d" = "確認有供電之後,請按住ΣPowerPlug的鈕三秒,直到Led燈閃爍為⽌";
 
 /*Fuzzy*/
-"Setting_AddPeripheral_Step2_Paring_Light_d" = "ΣLight安置好後，請重新啟動燈光開關3次, 直到燈閃爍";
+"Setting_AddPeripheral_Step2_Paring_Light_d" = "將ΣLight的切換器撥至目前的另一邊，接著再旋上燈座，旋緊後打開燈光開關，你會看到ΣLight閃爍三次。";
 
 /*Fuzzy*/
 "Setting_AddPeripheral_Step2_Paring_Door_d" = "請⽤針刺ΣDoor的重置/配對鈕三秒，直到LED燈閃爍為⽌";
@@ -275,7 +275,7 @@
 "Setting_MainPage_GatewayDevManagement" = "ΣCasa 裝置管理";
 "Setting_MainPage_AboutSystem" = "關於 ΣCasa";
 "Setting_MainPage_ContactUs" = "聯繫我們";
-"Setting_MainPage_FAQ" = "  常問問題  ";
+"Setting_MainPage_FAQ" = "常問問題";
 "Setting_MainPage_AddGatewayDev" = "新增ΣCentral / 週邊";
 "Setting_ContactUs_MailSubject" = "OEO Design 客服支援";
 "Setting_ContactUs_NoEmailAccount_t" = "E-Mail 帳號未設定";
@@ -433,3 +433,27 @@
 "Peripheral_Setting_Alert_Confirm" = "確定";
 "Device_GroupControl_Alert_Rename_Cancel" = "取消";
 "Device_GroupControl_Alert_Rename_Done" = "完成";
+"FAQ_Central_Question_0" = "新增ΣCentral失敗，顯示未設定成功";
+"FAQ_Central_Question_1" = "ΣCentral 在App界面上顯示紅色燈號(離線)，要如何恢復連線？";
+"FAQ_Central_Question_2" = "我買了多台ΣCentral，但已經有點搞亂了，有方便的方式讓我找到對應的每一台嗎？";
+"FAQ_Central_Question_3" = "我要如何移除ΣCentral？";
+"FAQ_Central_Question_4" = "家裡網路換了，我要如何更換ΣCentral連線的Wi-Fi網路？";
+"FAQ_Central_Answer_0" = "請先確認此台ΣCentral 尚未被新增至App過，如果需要重新新增，請至設定頁 > 裝置管理 移除此台ΣCentral 再進行新增的動作。如果您是第一次新增此台ΣCentra，請拔掉電源重新插上，並重複一次新增ΣCentral的步驟。";
+"FAQ_Central_Answer_1" = "表示ΣCentral 目前沒有回應，請先檢查ΣCentral 的電源是否接上，並檢查連線ΣCentral的網路(Wi-Fi)是否運作正常，如果一切正常，請試著將ΣCentral 重新開機.";
+"FAQ_Central_Answer_2" = "請到設定頁 > 裝置管理，點選你要尋找的ΣCentral來開啟子選單，你可以按下”找我”，LED將會持續閃爍讓你方便找尋.";
+"FAQ_Central_Answer_3" = "請到設定頁 > 裝置管理，點選你要移除的ΣCentral，將會開啟子選單讓你移除.\n請注意：移除ΣCentral將會將其連線的ΣCasa 週邊 一同移除，你必須要重新新增它們才能正常使用.";
+"FAQ_Central_Answer_4" = "請到設定頁 > 裝置管理，點選你要更換Wi-fi的ΣCentral，將會開啟子選單讓你選擇更換Wi-Fi.";
+"FAQ_Peripheral_Question_0" = "新增ΣCasa 週邊失敗，顯示未設定成功";
+"FAQ_Peripheral_Question_1" = "是不是可以設定ΣCasa週邊的遠距功能，但我現在ΣCasa週邊只有顯示藍芽連線，離開太遠就會離線，這是為什麼？";
+"FAQ_Peripheral_Question_2" = "ΣCasa週邊 在App界面上顯示紅色燈號(離線)，要如何恢復連線？";
+"FAQ_Peripheral_Question_3" = "ΣCasa週邊按了Reset之後，App為什麼會顯示叫我要輸入Pin碼？";
+"FAQ_Peripheral_Question_4" = "我要如何知道ΣCasa週邊的電量是否足夠？";
+"FAQ_Peripheral_Question_5" = "我買了多台ΣCasa週邊，但已經有點搞亂了，有方便的方式讓我找到對應的每一台嗎？";
+"FAQ_Peripheral_Question_6" = "我要如何移除ΣCasa週邊？";
+"FAQ_Peripheral_Answer_0" = "請檢查是否有以下狀態導致未預期的失敗\n1. ΣCasa週邊的電力有接上 (如果是電池型裝置，請確認電池電力足夠)\n2. ΣCasa週邊需要在ΣCentral 的藍芽範圍內進行安裝 ( 5~10m )，請檢視彼此距離是否過遠\n3. ΣCentral 在正常連線情況下 ( App連線顯示正常 )\n4. 重複一次新增ΣCasa週邊的步驟";
+"FAQ_Peripheral_Answer_1" = "ΣCasa週邊的基本功能，是手機要在ΣCasa週邊的藍芽範圍內連線使用，如果你要使用它的遠距功能，您必須配合ΣCentral的Wi-Fi網路連線來達成。\n當你將ΣCentral配置好後，請到設定頁 > 新增此台ΣCasa週邊，依照安裝步驟指示完成後，你就能遠距查詢該台ΣCasa週邊的數據紀錄，或者遠距控制它.";
+"FAQ_Peripheral_Answer_2" = "表示該台ΣCasa週邊目前沒有回應，請檢查下列狀態\n1.如果你沒有新增該台ΣCasa週邊並與ΣCentral連線，請確認手機是否不在該台ΣCasa週邊的藍芽範圍而導致斷線。\n2.如果你已新增該台ΣCasa週邊並與ΣCentral連線，請檢查ΣCasa週邊 與 ΣCentral彼此在藍芽的有效範圍內。\n3.如果還是不行，請將該台ΣCasa週邊的電力重新接上測試（如果是電池型裝置，如ΣWeather 或ΣDoor，請重新更換電池）";
+"FAQ_Peripheral_Answer_3" = "重置裝置時，加密機制也會一同被解除，因此，要重新使用時，我們需要你重新輸入裝置上的pin碼，以確保你的連線是被加密過的。";
+"FAQ_Peripheral_Answer_4" = "電池型的ΣCasa週邊如果電量即將不足，在App主頁上，該台裝置左下角會顯示低電量的狀態警告，提醒你該更換新電池.";
+"FAQ_Peripheral_Answer_5" = "請到設定頁 > 裝置管理，點選你要尋找的ΣCasa週邊來開啟子選單，你可以按下”找我”，LED將會持續閃爍讓你方便找尋.";
+"FAQ_Peripheral_Answer_6" = "請到設定頁 > 裝置管理，點選你要移除的ΣCasa週邊，將會開啟子選單讓你移除.";
