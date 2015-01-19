@@ -179,13 +179,13 @@
 "Setting_AddPeripheral_Step1_Door" = "Please install the ΣDoor on the doors/windows, make sure that they are tightly closed and shut, and ensure it is placed within 10m from ΣCentral.";
 "Setting_AddPeripheral_Step2_GatewayCollecting" = "ΣCentral is searching...";
 "Setting_AddPeripheral_Step2_Paring_t" = "Please follow the instructions below to complete the pairing procedure";
-"Setting_AddPeripheral_Step2_Paring_WeatherCube_d" = "Please use a pin to press the ΣWeatherCube reset/pairing button for three seconds until the LED light flashes";
+"Setting_AddPeripheral_Step2_Paring_WeatherCube_d" = "Please use a pin to press the ΣWeatherCube reset/pairing button and hold for three seconds until the LED light flashes.";
 "Setting_AddPeripheral_Step2_Paring_PowerPlug_d" = "Please press and hold the ΣPowerPlug for three seconds until the LED light flashes";
 "Setting_AddPeripheral_Step2_Paring_Light_d" = "Please move the switch on the ΣLight to the 'Opposite' side, install it on the lamp place holder and turn on the power. ΣLight will flash for 3 times indicating reset is successful.";
-"Setting_AddPeripheral_Step2_Paring_Door_d" = "Please use a pin to press ΣDoor reset/pairing button for three seconds until the LED light flashes";
+"Setting_AddPeripheral_Step2_Paring_Door_d" = "Please use a pin to press ΣDoor reset/pairing button and hold for three seconds until the LED light flashes.";
 "Setting_AddPeripheral_Step3_FoundAndParing_d2" = "Peripheral that can be paired to the ΣCentral at %@ has been found. In the future, you can remotely control the peripheral(s) with you mobile devices.";
 "Setting_AddPeripheral_Step4_d1" = "Completed";
-"Setting_AddPeripheral_Step4_d2" = "Now, you can begin to use your new device";
+"Setting_AddPeripheral_Step4_d2" = "Now, you can begin to use your new device.";
 "Setting_AddPeripheral_Step4_d3" = "Setup Completed";
 "Setting_AddPeripheral_Fail_WeatherCube_t" = "ΣWeatherCube\nSetup is not successful";
 "Setting_AddPeripheral_Fail_PowerPlug_t" = "ΣPowerplug\nSetup is not successful";
@@ -225,7 +225,7 @@
 "Setting_MainPage_ContactUs" = "Contact us";
 "Setting_MainPage_FAQ" = "FAQ";
 "Setting_MainPage_AddGatewayDev" = "Add ΣCentral / Peripheral";
-"Setting_ContactUs_MailSubject" = "OEO Design Customer Support";
+"Setting_ContactUs_MailSubject" = "ΣCasa Customer Support";
 "Setting_ContactUs_NoEmailAccount_t" = "E-Mail account has not been configured";
 "Setting_ContactUs_NoEmailAccount_d" = "Please configure your E-Mail account using your mobile phone";
 "SignUp_SignupWithFB" = "Facebook sign-in";
@@ -262,8 +262,8 @@
 "Setting_AddGatewayDev_WiFi_Error_SSID_Not_Found" = "Unable to find this SSID";
 
 /*Revise - "The provided information is wrong" -> needs to be as short as possible*/
-"Setting_AddGatewayDev_WiFi_Error_Config_Failed" = "Information input error";
-"Setting_AddGatewayDev_WiFi_Error" = "Network setting error";
+"Setting_AddGatewayDev_WiFi_Error_Config_Failed" = "Unable to find SSID or incorrect password.";
+"Setting_AddGatewayDev_WiFi_Error" = "Network Setting Error";
 "Setting_AddPeripheral_Step3_FoundAndParing_d1" = "The pairing device has been found, pairing information is being collected.";
 "Setting_GatewayManagement_GControl_ChangeWifi_Step2_d7" = "Refresh";
 "Setting_AddGateway_RegionUnnamed" = "Unnamed region";
@@ -295,7 +295,7 @@
 "Peripheral_Setting_Switch_Notification" = "Enable Door Notification";
 "SignUp_Error_Illegal_Agree" = "Please agree the Terms of Service and User Privacy Policy provided by ΣCasa\n";
 "Setting_AddGateway_Step6_d1" = "The newly added %@ in %@ is being synchronized with CloudServer....";
-"Setting_AddGateway_Step6_d2" = "ΣCentral\nComplete Setting";
+"Setting_AddGateway_Step6_d2" = "ΣCentral\nSetup Completed";
 "Setting_AddGateway_Step6_d3" = "ΣCentral\nSetup is not successful";
 "Setting_AddGateway_Fail_d" = "Please refer to the FAQ to resolve the problems";
 "Setting_AddGateway_FAQ" = "  FAQ  ";
@@ -316,11 +316,11 @@
 "Setting_AddPeripheral_Step3_PinCode_d4" = "Every peripheral comes with unique PinCode for authentication, you can find it on device or user manual.";
 "Setting_AddPeripheral_Step3_PinCode_Failed" = "Incorrect PinCode, Please Re-Enter.";
 "Setting_AddPeripheral_Fail_Conn_Error" = "Connection Error";
-"Setting_AddPeripheral_Fail_Peripheral_Not_Found" = "Peripheral %@ not found";
+"Setting_AddPeripheral_Fail_Peripheral_Not_Found" = "Peripheral %@ Not Found";
 "Setting_AddPeripheral_Fail_Reset" = "Please reset %@ and start over";
-"Setting_AddPeripheral_Fail_Exist" = "%@ already exist";
+"Setting_AddPeripheral_Fail_Exist" = "%@ already added";
 "Setting_AddGateway_Step6_d4" = "Now, you can start adding its peripheral and explore the power of ΣCasa";
-"Setting_AddGatewayDev_Already_Exist" = "ΣCentral already exist";
+"Setting_AddGatewayDev_Already_Exist" = "ΣCentral already added";
 "Peripheral_Pincode_Error_Warning" = "OOPS!";
 "Peripheral_Pincode_Error_Device_Reset" = "Peripheral is being reset!";
 "Peripheral_Pincode_Error_Revert" = "  Recover  ";
@@ -344,7 +344,7 @@
 "Password_Reset_t" = "Forgot Password";
 "Password_Reset_username" = "Email";
 "Password_Reset_d" = "Enter Registered Email";
-"Password_Reset_Get" = "Obtain Password Reset Mail Notification";
+"Password_Reset_Get" = "Reset Password";
 "Password_Reset_failed" = "Account does not exist.";
 "Password_Reset_Alert_t" = "Mail Notification Sent";
 "Password_Reset_Alert_d" = "Password reset mail confirmation has been sent, please check your mailbox.";
@@ -395,3 +395,4 @@
 "FAQ_Peripheral_Answer_4" = "Battery powered ΣCasa Peripheral will show low battery indicator on the lower left hand corner of Peripheral's view on the main page.";
 "FAQ_Peripheral_Answer_5" = "Please go to Setting->DeviceManager, tap on the ΣCasa Peripheral you want to identify to open the drop down menu, and tap \"FindMe\" icon. You should be able to see Peripheral main LED flashes for few seconds.";
 "FAQ_Peripheral_Answer_6" = "Please go to Settings->DeviceManager, tap on the ΣCasa Peripheral you want to remove to open the drop down menu, and tap \"Remove\" icon.";
+"Login_FetchingData" = "Fetching User Data...";
