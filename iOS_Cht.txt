@@ -277,7 +277,7 @@
 "Setting_MainPage_ContactUs" = "聯繫我們";
 "Setting_MainPage_FAQ" = "常問問題";
 "Setting_MainPage_AddGatewayDev" = "新增ΣCentral / 週邊";
-"Setting_ContactUs_MailSubject" = "OEO Design 客服支援";
+"Setting_ContactUs_MailSubject" = "ΣCasa 客服支援";
 "Setting_ContactUs_NoEmailAccount_t" = "E-Mail 帳號未設定";
 "Setting_ContactUs_NoEmailAccount_d" = "請自手機設定,來設定E-Mail帳號";
 "SignUp_SignupWithFB" = "臉書註冊";
@@ -457,3 +457,4 @@
 "FAQ_Peripheral_Answer_4" = "電池型的ΣCasa週邊如果電量即將不足，在App主頁上，該台裝置左下角會顯示低電量的狀態警告，提醒你該更換新電池.";
 "FAQ_Peripheral_Answer_5" = "請到設定頁 > 裝置管理，點選你要尋找的ΣCasa週邊來開啟子選單，你可以按下”找我”，LED將會持續閃爍讓你方便找尋.";
 "FAQ_Peripheral_Answer_6" = "請到設定頁 > 裝置管理，點選你要移除的ΣCasa週邊，將會開啟子選單讓你移除.";
+"Login_FetchingData" = "正在取得使用者資料...";
