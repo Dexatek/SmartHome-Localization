@@ -354,7 +354,7 @@
 "Add_First_Device_Gateway" = "I have ΣCentral, Start Setup.";
 "Add_First_Device_d" = "Explore ΣCasa, look for the device that fits your need";
 "Settings_Account_Password" = "Password";
-"Settings_Account_ChangePassword_Done" = "Completed";
+"Settings_Account_ChangePassword_Done" = "Done";
 "Settings_Account_ChangePassword_t" = "Change Password";
 "Settings_Account_ChangePassword_OldPassword" = "Re-enter old password";
 "Settings_Account_ChangePassword_NewPassword" = "Enter new password";
@@ -396,3 +396,44 @@
 "FAQ_Peripheral_Answer_5" = "Please go to Setting->DeviceManager, tap on the ΣCasa Peripheral you want to identify to open the drop down menu, and tap \"FindMe\" icon. You should be able to see Peripheral main LED flashes for few seconds.";
 "FAQ_Peripheral_Answer_6" = "Please go to Settings->DeviceManager, tap on the ΣCasa Peripheral you want to remove to open the drop down menu, and tap \"Remove\" icon.";
 "Login_FetchingData" = "Fetching User Data...";
+"Peripheral_Setting_PowerPlug_Schedule" = "Schedule";
+"Schedule_Managemetn_t" = "Schedule";
+"Schedule_Add_Schedule_t" = "Add Schedule";
+"Schedule_Managemetn_On" = "ON";
+"Schedule_Managemetn_Off" = "OFF";
+"Schedule_Managemetn_Everyday" = "Every day";
+"Schedule_Managemetn_Weekdays" = "Weekdays";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Sunday_s" = "Sun";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Monday_s" = "Mon";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Tuesday_s" = "Tue";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Wednesday_s" = "Wed";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Thursday_s" = "Thu";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Friday_s" = "Fri";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Saturday_s" = "Sat";
+"Schedule_Managemetn_Repeat" = "Repeat";
+"Schedule_Managemetn_Switch" = "Switch";
+"Schedule_Managemetn_Save" = "Save";
+"Schedule_Managemetn_Weekends" = "Weekend";
+"Schedule_Managemetn_Sunday" = "Sunday";
+"Schedule_Managemetn_Monday" = "Monday";
+"Schedule_Managemetn_Tuesday" = "Tuesday";
+"Schedule_Managemetn_Wednesday" = "Wednesday";
+"Schedule_Managemetn_Thursday" = "Thursday";
+"Schedule_Managemetn_Friday" = "Friday";
+"Schedule_Managemetn_Saturday" = "Saturday";
+"Schedule_Managemetn_Never" = "Never";
+"Setting_AddPeripheral_Fail_Gateway_Reach_Maximum_Capacity" = "Maximum ΣCentral supported peripheral has been reached";
