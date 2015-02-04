@@ -458,3 +458,44 @@
 "FAQ_Peripheral_Answer_5" = "請到設定頁 > 裝置管理，點選你要尋找的ΣCasa週邊來開啟子選單，你可以按下”找我”，LED將會持續閃爍讓你方便找尋.";
 "FAQ_Peripheral_Answer_6" = "請到設定頁 > 裝置管理，點選你要移除的ΣCasa週邊，將會開啟子選單讓你移除.";
 "Login_FetchingData" = "正在取得使用者資料...";
+"Peripheral_Setting_PowerPlug_Schedule" = "排程設定";
+"Schedule_Managemetn_t" = "排程";
+"Schedule_Add_Schedule_t" = "新增排程";
+"Schedule_Managemetn_On" = "開";
+"Schedule_Managemetn_Off" = "關";
+"Schedule_Managemetn_Everyday" = "每天";
+"Schedule_Managemetn_Weekdays" = "平日";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Sunday_s" = "週日";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Monday_s" = "週一";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Tuesday_s" = "週二";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Wednesday_s" = "週三";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Thursday_s" = "週四";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Friday_s" = "週五";
+
+/*Fuzzy*/
+"Schedule_Managemetn_Saturday_s" = "週六";
+"Schedule_Managemetn_Repeat" = "重複";
+"Schedule_Managemetn_Switch" = "開關";
+"Schedule_Managemetn_Save" = "儲存";
+"Schedule_Managemetn_Weekends" = "週末";
+"Schedule_Managemetn_Sunday" = "星期日";
+"Schedule_Managemetn_Monday" = "星期一";
+"Schedule_Managemetn_Tuesday" = "星期二";
+"Schedule_Managemetn_Wednesday" = "星期三";
+"Schedule_Managemetn_Thursday" = "星期四";
+"Schedule_Managemetn_Friday" = "星期五";
+"Schedule_Managemetn_Saturday" = "星期六";
+"Schedule_Managemetn_Never" = "永不";
+"Setting_AddPeripheral_Fail_Gateway_Reach_Maximum_Capacity" = "ΣCentral 可新增的週邊裝置數量已達上限";
