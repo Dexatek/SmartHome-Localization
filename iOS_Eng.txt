@@ -177,7 +177,7 @@
 
 /*Revise - the first sentence*/
 "Setting_AddPeripheral_Step1_Door" = "Please install the ΣDoor on the doors/windows, make sure that they are tightly closed and shut, and ensure it is placed within 10m from ΣCentral.";
-"Setting_AddPeripheral_Step2_GatewayCollecting" = "ΣCentral is searching...";
+"Setting_AddPeripheral_Step2_GatewayCollecting" = "Searching...";
 "Setting_AddPeripheral_Step2_Paring_t" = "Please follow the instructions below to complete the pairing procedure";
 "Setting_AddPeripheral_Step2_Paring_WeatherCube_d" = "Please use a pin to press the ΣWeatherCube reset/pairing button and hold for three seconds until the LED light flashes.";
 "Setting_AddPeripheral_Step2_Paring_PowerPlug_d" = "Please press and hold the ΣPowerPlug for three seconds until the LED light flashes";
@@ -291,7 +291,7 @@
 "Device_MainView_RegionGatewayDistance_CurrentLocation" = "Current Location";
 "Peripheral_Setting_Main_t" = "Peripheral Setting";
 "Peripheral_Setting_Main_Done" = "Done";
-"Peripheral_Setting_Main_Cancel" = "Cancel";
+"Peripheral_Setting_Main_Cancel" = "Done";
 "Peripheral_Setting_Switch_Notification" = "Enable Door Notification";
 "SignUp_Error_Illegal_Agree" = "Please agree the Terms of Service and User Privacy Policy provided by ΣCasa\n";
 "Setting_AddGateway_Step6_d1" = "The newly added %@ in %@ is being synchronized with CloudServer....";
@@ -320,7 +320,7 @@
 "Setting_AddPeripheral_Fail_Reset" = "Please reset %@ and start over";
 "Setting_AddPeripheral_Fail_Exist" = "%@ already added";
 "Setting_AddGateway_Step6_d4" = "Now, you can start adding its peripheral and explore the power of ΣCasa";
-"Setting_AddGatewayDev_Already_Exist" = "ΣCentral already added";
+"Setting_AddGatewayDev_Already_Exist" = "ΣCentral already paired";
 "Peripheral_Pincode_Error_Warning" = "OOPS!";
 "Peripheral_Pincode_Error_Device_Reset" = "Peripheral is being reset!";
 "Peripheral_Pincode_Error_Revert" = "  Recover  ";
@@ -437,3 +437,20 @@
 "Schedule_Managemetn_Saturday" = "Saturday";
 "Schedule_Managemetn_Never" = "Never";
 "Setting_AddPeripheral_Fail_Gateway_Reach_Maximum_Capacity" = "Maximum ΣCentral supported peripheral has been reached";
+"Setting_AddPeripheral_Stand_Alone_Start" = "Stand Alone";
+"Setting_AddPeripheral_Stand_Alone_d1" = "ΣCentral is found in this region. If remote control access is needed, please make sure peripheral is within ΣCentral proximity and tap back to continue.";
+"Setting_AddPeripheral_Stand_Alone_d2" = "StandAlone peripheral is for near field control only.";
+"Setting_AddPeripheral_Stand_Alone_d3" = "Tap 'Confirm' to initiate StandAlone pairing.";
+"Setting_AddPeripheral_Invalid_Pincode_Length" = "Invalid pincode length";
+"Schedule_Managemetn_At_Least_OneDay" = "Please select at least one day.";
+"Device_MainView_RegionGatewayAllDisconnected" = "Disconnected";
+"Device_MainView_RegionGatewayPartialConnected" = "Partial Connected";
+"Setting_MainPage_Unit" = "Unit Switch";
+"Setting_UnitPage_Temperature_t" = "Temperature";
+"Setting_UnitPage_Distance_t" = "Distance";
+"Setting_UnitPage_Temperature_Centigrade" = "Centigrade °C";
+"Setting_UnitPage_Temperature_Fahrenheit" = "Fahrenheit °F";
+"Setting_UnitPage_Distance_Kilometer" = "Kilometer";
+"Setting_UnitPage_Distance_Mile" = "Mile";
+"Device_MainView_RegionGatewayDistance_MileShort" = "Miles";
+"Setting_AddPeripheral_Connect_BLE" = "Connect";
