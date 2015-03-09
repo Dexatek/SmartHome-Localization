@@ -195,7 +195,7 @@
 "Setting_AddPeripheral_Step1_Door" = "請將門/窗關上,並安置好ΣDoor，確認他們是否在閉上狀態是緊連的。請注意ΣDoor與ΣCentral 需要保持10m內良好通信距離";
 
 /*Fuzzy*/
-"Setting_AddPeripheral_Step2_GatewayCollecting" = "ΣCentral 已在搜尋中...";
+"Setting_AddPeripheral_Step2_GatewayCollecting" = "裝置搜尋中...";
 
 /*Fuzzy*/
 "Setting_AddPeripheral_Step2_Paring_t" = "請按照以下指示完成配對動作";
@@ -349,7 +349,7 @@
 "Peripheral_Setting_Main_Done" = "確定";
 
 /*Fuzzy*/
-"Peripheral_Setting_Main_Cancel" = "取消";
+"Peripheral_Setting_Main_Cancel" = "完成";
 "Peripheral_Setting_Switch_Notification" = "開關門自動傳送通知到手機";
 "SignUp_Error_Illegal_Agree" = "請同意ΣCasa的條款服務與隱私權政策\n";
 "Setting_AddGateway_Step6_d1" = "你在%@新安裝的%@資料正與伺服器同步連線中...";
@@ -380,7 +380,7 @@
 "Setting_AddPeripheral_Fail_Reset" = "請將%@重置，並重新設定";
 "Setting_AddPeripheral_Fail_Exist" = "%@已存在";
 "Setting_AddGateway_Step6_d4" = "現在，您可為它新增支援的周邊設備，開啟你的智慧新生活";
-"Setting_AddGatewayDev_Already_Exist" = "ΣCentral已存在";
+"Setting_AddGatewayDev_Already_Exist" = "ΣCentral已配對";
 "Peripheral_Pincode_Error_Warning" = "OOPS!";
 "Peripheral_Pincode_Error_Device_Reset" = "偵測到此設備被重置！";
 "Peripheral_Pincode_Error_Revert" = "  恢復  ";
@@ -499,3 +499,20 @@
 "Schedule_Managemetn_Saturday" = "星期六";
 "Schedule_Managemetn_Never" = "永不";
 "Setting_AddPeripheral_Fail_Gateway_Reach_Maximum_Capacity" = "ΣCentral 可新增的週邊裝置數量已達上限";
+"Setting_AddPeripheral_Stand_Alone_Start" = "啟用獨立控制";
+"Setting_AddPeripheral_Stand_Alone_d1" = "在此區域已找到ΣCentral。若要進行遠端控制，請將裝置與ΣCentral保持良好通信距離，按著按返回繼續搜尋";
+"Setting_AddPeripheral_Stand_Alone_d2" = "獨立控制模式僅限於近距離的裝置操控";
+"Setting_AddPeripheral_Stand_Alone_d3" = "按「確定」啟用獨立控制";
+"Setting_AddPeripheral_Invalid_Pincode_Length" = "Pincode 長度錯誤";
+"Schedule_Managemetn_At_Least_OneDay" = "請至少選擇一天。";
+"Device_MainView_RegionGatewayAllDisconnected" = "中斷連線";
+"Device_MainView_RegionGatewayPartialConnected" = "部份已連線";
+"Setting_MainPage_Unit" = "單位切換";
+"Setting_UnitPage_Temperature_t" = "溫度";
+"Setting_UnitPage_Distance_t" = "距離";
+"Setting_UnitPage_Temperature_Centigrade" = "攝氏 °C";
+"Setting_UnitPage_Temperature_Fahrenheit" = "華氏 °F";
+"Setting_UnitPage_Distance_Kilometer" = "公里 km";
+"Setting_UnitPage_Distance_Mile" = "英里 mi";
+"Device_MainView_RegionGatewayDistance_MileShort" = "英里";
+"Setting_AddPeripheral_Connect_BLE" = "連結";
