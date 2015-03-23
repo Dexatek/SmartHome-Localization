@@ -318,7 +318,9 @@
 "Setting_AddPeripheral_Fail_Conn_Error" = "Connection Error";
 "Setting_AddPeripheral_Fail_Peripheral_Not_Found" = "Peripheral %@ Not Found";
 "Setting_AddPeripheral_Fail_Reset" = "Please reset %@ and start over";
-"Setting_AddPeripheral_Fail_Exist" = "%@ already added";
+
+/*Fuzzy*/
+"Setting_AddPeripheral_Fail_Exist" = "%@ already paired";
 "Setting_AddGateway_Step6_d4" = "Now, you can start adding its peripheral and explore the power of ΣCasa";
 "Setting_AddGatewayDev_Already_Exist" = "ΣCentral already paired";
 "Peripheral_Pincode_Error_Warning" = "OOPS!";
@@ -428,13 +430,13 @@
 "Schedule_Managemetn_Switch" = "Switch";
 "Schedule_Managemetn_Save" = "Save";
 "Schedule_Managemetn_Weekends" = "Weekend";
-"Schedule_Managemetn_Sunday" = "Sunday";
-"Schedule_Managemetn_Monday" = "Monday";
-"Schedule_Managemetn_Tuesday" = "Tuesday";
-"Schedule_Managemetn_Wednesday" = "Wednesday";
-"Schedule_Managemetn_Thursday" = "Thursday";
-"Schedule_Managemetn_Friday" = "Friday";
-"Schedule_Managemetn_Saturday" = "Saturday";
+"Schedule_Managemetn_Sunday" = "Every Sunday";
+"Schedule_Managemetn_Monday" = "Every Monday";
+"Schedule_Managemetn_Tuesday" = "Every Tuesday";
+"Schedule_Managemetn_Wednesday" = "Every Wednesday";
+"Schedule_Managemetn_Thursday" = "Every Thursday";
+"Schedule_Managemetn_Friday" = "Every Friday";
+"Schedule_Managemetn_Saturday" = "Every Saturday";
 "Schedule_Managemetn_Never" = "Never";
 "Setting_AddPeripheral_Fail_Gateway_Reach_Maximum_Capacity" = "Maximum ΣCentral supported peripheral has been reached";
 "Setting_AddPeripheral_Stand_Alone_Start" = "Stand Alone";
@@ -454,3 +456,5 @@
 "Setting_UnitPage_Distance_Mile" = "Mile";
 "Device_MainView_RegionGatewayDistance_MileShort" = "Miles";
 "Setting_AddPeripheral_Connect_BLE" = "Connect";
+"Peripheral_Revert_Warning" = "Remind";
+"Peripheral_Revert_Warning_POffline" = "Can't Connect with Peripheral";
