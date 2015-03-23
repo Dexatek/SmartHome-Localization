@@ -378,9 +378,12 @@
 "Setting_AddPeripheral_Fail_Conn_Error" = "連線異常";
 "Setting_AddPeripheral_Fail_Peripheral_Not_Found" = "未找到%@裝置";
 "Setting_AddPeripheral_Fail_Reset" = "請將%@重置，並重新設定";
-"Setting_AddPeripheral_Fail_Exist" = "%@已存在";
+
+/*This string is incorrect when applying to ∑Central.*/
+/*Fuzzy*/
+"Setting_AddPeripheral_Fail_Exist" = "%@已被配對。";
 "Setting_AddGateway_Step6_d4" = "現在，您可為它新增支援的周邊設備，開啟你的智慧新生活";
-"Setting_AddGatewayDev_Already_Exist" = "ΣCentral已配對";
+"Setting_AddGatewayDev_Already_Exist" = "ΣCentral已被配對。";
 "Peripheral_Pincode_Error_Warning" = "OOPS!";
 "Peripheral_Pincode_Error_Device_Reset" = "偵測到此設備被重置！";
 "Peripheral_Pincode_Error_Revert" = "  恢復  ";
@@ -516,3 +519,5 @@
 "Setting_UnitPage_Distance_Mile" = "英里 mi";
 "Device_MainView_RegionGatewayDistance_MileShort" = "英里";
 "Setting_AddPeripheral_Connect_BLE" = "連結";
+"Peripheral_Revert_Warning" = "提醒";
+"Peripheral_Revert_Warning_POffline" = "無法與裝置連結";
