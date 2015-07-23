@@ -1,38 +1,26 @@
 "Intro_Page1_Welcome_t" = "歡迎來到\nΣCasa";
-"Intro_Page1_Welcome_d" = "溫濕度監測 / 電力切換\n燈光控制 / 門窗監控\n\n";
+"Intro_Page1_Welcome_d" = "溫濕度監測 / 電力切換\n燈光控制 / 門窗監控\n防災偵測 / 震動偵測";
 "Intro_Page2_Registration_t" = "註冊ΣCasa\n擁抱未來新生活";
 "Intro_Page2_Registration_d" = "ΣCasa 擁有能夠與家中裝置遠端連線與與控制的能力，就算你沒有裝置，註冊後也能同步收到我們最新的優惠訊息";
 "Intro_Page3_Feature_t" = "ΣCasa\n支援多項不同功能的裝置";
-"Intro_Page3_Feature_d" = "ΣWeatherCube 觀看家中房間溫濕度\nΣPowerPlug 遠端開啟家電電源\nΣLight 遠端燈光控制度亮\nΣDoor 安全管理通知門窗開關";
+"Intro_Page3_Feature_d" = "ΣWeatherCube 觀看家中房間溫濕度\nΣPowerPlug 遠端開啟家電電源\nΣLight 遠端燈光控制度亮\nΣDoor 安全管理通知門窗開關\nΣSmoke 居家安全的防災幫手\nΣShock 震動破壞的防盜者";
 "Settings_Account_t" = "帳號設定";
 "Settings_Account_Name" = "顯示姓名";
 "Setting_Account_ID" = "登入帳號";
-"Settings_Account_LogOut" = "登出此帳號";
+"Settings_Account_LogOut" = "登出";
 "Tutorial_NoGateway_Close_t" = "關閉提示";
 "Tutorial_NoGateway_Step2_d1" = "請跟著操作指示來完成裝置的安裝程序";
 "Tutorial_NoGateway_Step2_d2" = "新增ΣCentral / 週邊";
 "Tutorial_NoGateway_Step1_d1" = "歡迎開始使用\nΣCasa";
 "Tutorial_NoGateway_Step1_d2" = "請從設定加入來啟用新的ΣCentral裝置或週邊";
 "Tutorial_NoGateway_Step1_d2SubColor" = "設定";
-"Setting_AddGateway_NoGPS_t" = "新增ΣCentral需要目前地點資訊請打開「定位」功能並按下一步";
+"Setting_AddGateway_NoGPS_Sub_t" = "新增ΣCentral需要目前地點資訊，請打開「定位」功能並按下一步。";
 "Setting_AddGateway_NoGPS_d1" = "1. 打開「設定」";
 "Setting_AddGateway_NoGPS_d2" = "2. 打開「隱私權設定」";
 "Setting_AddGateway_NoGPS_d3" = "3. 確定開啟「定位」功能";
 "Setting_AddGateway_NoGPS_d4" = "4. 往下滑至此App定位";
 "Setting_AddGateway_NoGPS_d5" = "5. 確定此App的定位開啟";
-"Setting_AddGateway_Step1_d" = "請將ΣCentral放置於家中的中央處以保持通信良好，完成請按下一步";
-"Setting_AddGateway_Step2_d" = "確認接好ΣCentral的電源後，請按住ΣCentral中間鈕3秒直到顯示燈快速閃爍。";
-"Setting_AddGateway_Step3_t" = "Wifi配置";
-"Setting_AddGateway_Step3_d1" = "你目前選擇了網路連線\n「 %@ 」";
-"Setting_AddGateway_Step3_d2" = "你要把新增的ΣCentral配置到這個網路來做控制嗎?";
-"Setting_AddGateway_Step3_d3" = " 我要選擇別的網路";
-"Setting_AddGateway_Step3_d4" = "ΣCentral的網路設定中…";
-"Setting_AddGateway_Step3_d5" = "選擇網路";
-"Setting_AddGateway_Step3_d6" = "其他";
-"Setting_AddGateway_Step4_d1" = "此台新增的ΣCentral將配置到%@ 這個地點";
-"Setting_AddGateway_Step4_d2" = "地點命名：";
-"Setting_AddGateway_Step5_d1" = "ΣCentral已設定";
-"Setting_AddGateway_Step5_d2" = "現在可以為你新增的ΣCentral設定名稱";
+"Setting_AddGateway_Step_WIFI_Setting_Other" = "其他";
 "Setting_AddGatewayDev_Main_t" = "新增裝置";
 "Setting_AddGateway_Step_t" = "安裝導引";
 "Setting_AddGateway_Step_Next" = "下一步";
@@ -49,29 +37,16 @@
 "Setting_AddPeripheral_PowerPlugName" = "ΣPowerPlug";
 "Setting_AddPeripheral_LightName" = "ΣLight";
 "Setting_AddPeripheral_DoorName" = "ΣDoor";
-"Setting_AddPeripheral_WeatherDescription" = "不管你⾝在何處，都能透過App查詢家中的溫度，濕度甚至空氣品質，ΣWeatherCube幫你看顧你的家⼈";
+"Setting_AddPeripheral_WeatherDescription" = "不管你⾝在何處，都能透過App查詢家中的溫度，濕度甚至空氣品質，ΣWeatherCube幫你看顧你的家⼈。";
 "Setting_AddPeripheral_PowerPlugDescription" = "ΣPowerPlug是操控家電電力的好幫手，除了幫你監控家電的能源消耗情況,更能設定家電的任務時程來節省電費。";
-"Setting_AddPeripheral_LightDescription" = "智慧家庭的基本配備，能遠距或智慧地控制燈光開關，讓家人從燈光裡感到溫暖";
-"Setting_AddPeripheral_DoorDescription" = "可配置在⾨邊或窗邊，可以偵測當門窗被打開或關閉時的動作，並設定通知";
-"Setting_AddPeripheral_UnknownDescription" = "透過ΣCentral可以讓支援的設備透過網路遠端操控它，讓你的智慧家庭更進一步";
-"Setting_AddPeripheral_UnnamedRegion" = "未命名";
-
-/*Fuzzy*/
+"Setting_AddPeripheral_LightDescription" = "智慧家庭的基本配備，能遠距或智慧地控制燈光開關，讓家人從燈光裡感到溫暖。";
+"Setting_AddPeripheral_DoorDescription" = "可配置在⾨邊或窗邊，可以偵測當門窗被打開或關閉時的動作，並設定通知。";
+"Setting_AddPeripheral_UnknownDescription" = "透過ΣCentral可以讓支援的設備透過網路遠端操控它，讓你的智慧家庭更進一步。";
 "Setting_WifiSetting_EnterPassword" = "請輸入密碼";
-
-/*Fuzzy*/
 "Setting_WifiSetting_Password" = "密碼";
-
-/*Fuzzy*/
 "Setting_WifiSetting_EnterSSIDAndPassword" = "請輸入網絡名稱和密碼";
-
-/*Fuzzy*/
 "Setting_WifiSetting_SSID" = "網絡名稱";
-
-/*Fuzzy*/
 "Setting_WifiSetting_GenericCancel" = "取消";
-
-/*Fuzzy*/
 "Setting_WifiSetting_GenericOK" = "確認";
 "Device_RegionDropDownView_CurrentLocation" = "當前位置";
 "Device_RegionDropDownView_RegionUnnamed" = "未命名區域";
@@ -96,16 +71,10 @@
 "Setting_GatewayManagement_GControl_GRemove" = "移除裝置";
 "Setting_GatewayManagement_Control_EditName_t" = "請輸入名稱";
 "Setting_GatewayManagement_Control_EditName_d" = "請輸入欲更改裝置名稱";
-
-/*Fuzzy*/
 "Setting_GatewayManagement_Control_GenericCancel" = "取消";
-
-/*Fuzzy*/
 "Setting_GatewayManagement_Control_GenericConfirm" = "確定";
 "Setting_GatewayManagement_GControl_Remove_t" = "移除ΣCentral";
 "Setting_GatewayManagement_GControl_Remove_d" = "你確定要從「%@」移除ΣCentral\n注意！與此ΣCentral連結的所有裝置將會失去連線，需重新配置方能使用。";
-"Setting_GatewayManagement_GControl_ChangeWifi_Step1_t" = "重新設定ΣCentral的WiFi";
-"Setting_GatewayManagement_GControl_ChangeWifi_Step1_d" = "請按住ΣCentral中間鈕3秒直到顯示燈快速閃爍,來重置ΣCentral的網路設定。";
 "Setting_GatewayManagement_GControl_ChangeWifi_Step2_t" = "Wifi配置";
 "Setting_GatewayManagement_GControl_ChangeWifi_Step2_d" = "你目前選擇了網路連線\n「 %@ 」";
 "Setting_GatewayManagement_GControl_ChangeWifi_Step2_d2" = "你要把ΣCentral配置到這個網路來做控制嗎?";
@@ -131,11 +100,11 @@
 "Intro_Header1" = "你的智慧管家";
 "Intro_Header2" = "ΣCasa";
 "Device_AddGateway_RegionList_UnknownRegion" = "未知區域";
-"Login_FBLogIn" = "臉書登錄";
+"Login_FBLogIn" = "臉書登入";
 "Login_AlternativeOR" = "或";
 "Login_Email" = "E-mail";
 "Login_Password" = "密碼";
-"Login_EmailLogin" = "E-mail 登錄";
+"Login_EmailLogin" = "E-mail 登入";
 "Login_AutoLogIn" = "保持我的登入狀態";
 "Login_PasswordLost" = "忘記密碼?";
 "Login_EmailFiledIncomplete" = "E-mail 未填\n";
@@ -147,9 +116,9 @@
 "SignUp_GenericError" = "錯誤";
 "SignUp_GenericOK" = "Ok";
 "SignUp_CreatingUserAccount" = "正在註冊帳號...";
-"Login_LogingIn" = "正在登錄中...";
-"Login_LoginSuccess" = "登錄成功...";
-"Login_FailToLogIn" = "登錄失敗";
+"Login_LogingIn" = "正在登入中...";
+"Login_LoginSuccess" = "登入成功...";
+"Login_FailToLogIn" = "登入失敗";
 "Generic_Network_NoConnection" = "尚末連線";
 "Setting_AddGatewayDev_Main_d" = "你目前所在地 : %@";
 "Device_GroupControl_CustomGroupName" = "+ 自訂房間群組";
@@ -176,76 +145,25 @@
 "Device_GroupControl_NewGroup_d" = "請輸入新的群組命名";
 "Device_GroupControl_GenericCancel" = "取消";
 "Device_GroupControl_GenericOk" = "Ok";
-"Intro_Bar_Login" = "登錄";
+"Intro_Bar_Login" = "登入";
 "Intro_Bar_SignUp" = "註冊";
-
-/*Fuzzy*/
 "Intro_Bar_SkipAndExplore" = "跳過/探索";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step1_WeatherCube" = "請將ΣWeatherCube 放置你要偵測的位置。請注意ΣWeatherCube 最好與ΣCentral 需要保持10M內良好通信距離";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step1_PowerPlug" = "請將ΣPowerPlug 安裝在你要偵測家電的插頭插座。請注意 ΣPowerPlug 與ΣCentral 需要保持10M內良好通信距離";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step1_Light" = "請先找好你要置換ΣLight的燈座，取下舊燈泡後並關上燈光開關。請注意ΣLight 與ΣCentral 需要保持10M內良好通信距離";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step1_Door" = "請將門/窗關上,並安置好ΣDoor，確認他們是否在閉上狀態是緊連的。請注意ΣDoor與ΣCentral 需要保持10m內良好通信距離";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step2_GatewayCollecting" = "裝置搜尋中...";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step2_Paring_t" = "請按照以下指示完成配對動作";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step2_Paring_WeatherCube_d" = "請用針刺ΣWeatherCube的重置/配對鈕三秒，直到LED燈閃爍為⽌";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step2_Paring_PowerPlug_d" = "確認有供電之後,請按住ΣPowerPlug的鈕三秒,直到Led燈閃爍為⽌";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step2_Paring_Light_d" = "將ΣLight的切換器撥至目前的另一邊，接著再旋上燈座，旋緊後打開燈光開關，你會看到ΣLight閃爍三次。";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step2_Paring_Door_d" = "請⽤針刺ΣDoor的重置/配對鈕三秒，直到LED燈閃爍為⽌";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step3_FoundAndParing_d2" = "你在%@已經搜尋到可連線的ΣCentral裝置，未來你可以透過網路開啟遠端功能";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step4_d1" = "完成";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step4_d2" = "現在你可以開始使用新的裝置";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step4_d3" = "已設定完成";
-
-/*Fuzzy*/
+"Setting_AddPeripheral_Step_Install_WeatherCube" = "請將ΣWeatherCube 放置你要偵測的位置。";
+"Setting_AddPeripheral_Step_Install_PowerPlug" = "請將ΣPowerPlug 安裝在你要偵測家電的插頭插座。";
+"Setting_AddPeripheral_Step_Install_Light" = "ΣLight安置好後，請重新啟動燈光開關，讓燈器的電力重新接上，直到APP偵測到為止。";
+"Setting_AddPeripheral_Step_Install_Door" = "請將門/窗關上，並安置好ΣDoor，確認他們是否在閉上狀態是緊連的。";
+"Setting_AddPeripheral_Step_Reset_WeatherCube" = "請用針刺ΣWeatherCube的reset pin三秒，直到LED燈閃爍為⽌。";
+"Setting_AddPeripheral_Step_Reset_PowerPlug" = "確認有供電之後，請按住ΣPowerPlug的鈕三秒，直到LED燈閃爍為⽌。";
+"Setting_AddPeripheral_Step_Reset_Light" = "將ΣLight旋上燈座，旋緊後打開燈光開關，你會到看ΣLight閃爍三次。";
+"Setting_AddPeripheral_Step_Reset_Door" = "請⽤針刺ΣDoor的reset pin三秒，直到LED燈閃爍為⽌。";
+"Setting_AddPeripheral_Step_Finish_Success_t" = "設定完成";
+"Setting_AddPeripheral_Step_Finish_Success_d" = "現在你可以開始使用\n%@";
 "Setting_AddPeripheral_Fail_WeatherCube_t" = "ΣWeatherCube\n未設定成功";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Fail_PowerPlug_t" = "ΣPowerplug\n未設定成功";
-
-/*Fuzzy*/
+"Setting_AddPeripheral_Fail_PowerPlug_t" = "ΣPowerPlug\n未設定成功";
 "Setting_AddPeripheral_Fail_Light_t" = "ΣLight\n未設定成功";
-
-/*Fuzzy*/
 "Setting_AddPeripheral_Fail_Door_t" = "ΣDoor\n未設定成功";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Fail_d" = "App無法偵測到任何回應\n請參考FAQ來解決問題";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_FAQ" = "  常問問題  ";
-
-/*Fuzzy*/
-"Setting_AddPeripheral_Step_t" = "安裝導引";
-
-/*Fuzzy*/
+"Setting_AddPeripheral_Step_Fail_CommonFail" = "App無法偵測到任何回應\n請參考FAQ來解決問題";
+"Setting_AddPeripheral_FAQ" = "常見問題";
 "Setting_AddPeripheral_Step_Next" = "下一步";
 "Setting_GatewayManagement_PControl_FindMe" = "找我";
 "Setting_GatewayManagement_PControl_EditName" = "編輯名稱";
@@ -259,8 +177,6 @@
 "PowerPlug_Cell_ VoltageShort" = " V";
 "PowerPlug_Cell_ HertzShort" = " Hz";
 "PowerPlug_Cell_WattShort" = " W";
-
-/*Fuzzy*/
 "Device_MainView_RegionGatewayAllConnected" = "已連線";
 "Device_MainView_RegionGatewayDistance" = "距離";
 "Device_MainView_RegionGatewayDistance_MeterShort" = "公尺";
@@ -288,8 +204,6 @@
 "SignUp_Password" = "密碼";
 "SignUp_PasswordConfirm" = "密碼確認";
 "SignUp_SignUp" = "註冊!";
-
-/*Fuzzy*/
 "SignUp_Agreement" = "我同意 ΣCasa 的條款服務與使用者隱私政策";
 "SignUp_Error_MissingFirstName" = "未提供名字\n";
 "SignUp_Error_MissingLastName" = "未提供姓名\n";
@@ -311,13 +225,10 @@
 "Phone_Setting_Required_NoBLE_d1" = "1. 打開「設定」";
 "Phone_Setting_Required_NoBLE_d2" = "2. 選擇藍芽功能";
 "Phone_Setting_Required_NoBLE_d3" = "3. 開關切換至ON";
-"Setting_AddGateway_Step3_d7" = "重新整理";
 "Setting_AddGatewayDev_WiFi_Error_Invalid_Parameter" = "參數錯誤";
 "Setting_AddGatewayDev_WiFi_Error_SSID_Not_Found" = "找不到此SSID";
 "Setting_AddGatewayDev_WiFi_Error_Config_Failed" = "輸入資訊錯誤";
 "Setting_AddGatewayDev_WiFi_Error" = "網路設定發生錯誤";
-"Setting_AddPeripheral_Step3_FoundAndParing_d1" = "已搜尋到配對裝置，正在搜集配對資訊。";
-"Setting_GatewayManagement_GControl_ChangeWifi_Step2_d7" = "重新整理";
 "Setting_AddGateway_RegionUnnamed" = "未命名區域";
 "SignUp_Error_Invalid_Params" = "參數錯誤";
 "SignUp_Error_Missing_Params" = "缺少參數";
@@ -328,37 +239,21 @@
 "Login_Error_Unauthorize" = "帳號或密碼輸入錯誤";
 "SignUp_Error_NetworkDown" = "網路未連線";
 "SignUp_HTTPError" = "網路連線發生錯誤";
-
-/*Fuzzy*/
 "Device_GroupControl_Delete" = "刪除";
 "Device_GroupControl_Alert_Offline" = "你的「%@」連線有問題，以致於功能無法正常使用，請重新檢查連線";
 "Device_GroupControl_Alert_Confirm" = "我知道了";
-
-/*Fuzzy*/
 "Device_GroupControl_Alert_FAQ" = "  常見問題  ";
 "Device_GroupControl_Done" = "完成";
 "Device_GroupControl_Alert_Duplicate_GroupName" = "重複的群組名稱";
 "Device_GroupControl_Alert_Rename_Again" = "重新命名";
 "Door_Cell_Today" = "今天";
 "Device_MainView_RegionGatewayDistance_CurrentLocation" = "目前所在位置";
-
-/*Fuzzy*/
 "Peripheral_Setting_Main_t" = "裝置設定";
-
-/*Fuzzy*/
 "Peripheral_Setting_Main_Done" = "確定";
-
-/*Fuzzy*/
 "Peripheral_Setting_Main_Cancel" = "完成";
 "Peripheral_Setting_Switch_Notification" = "開關門自動傳送通知到手機";
 "SignUp_Error_Illegal_Agree" = "請同意ΣCasa的條款服務與隱私權政策\n";
-"Setting_AddGateway_Step6_d1" = "你在%@新安裝的%@資料正與伺服器同步連線中...";
-"Setting_AddGateway_Step6_d2" = "ΣCentral\n設定完成";
-"Setting_AddGateway_Step6_d3" = "ΣCentral\n未設定成功";
-"Setting_AddGateway_Fail_d" = "請參考FAQ來解決問題";
-"Setting_AddGateway_FAQ" = "  常問問題  ";
-
-/*Fuzzy*/
+"Setting_AddGateway_Step_Result_Fail_FAQ" = "常見問題";
 "Weather_Preview_WeatherCondition" = "天氣概況";
 "Setting_AddPeripheral_UnknownDescription_h" = "你家庭最聰明的管家";
 "Setting_AddPeripheral_DoorDescription_h" = "家⼈安全的警衛";
@@ -368,22 +263,17 @@
 "Phone_Setting_Required_t_header" = "哎呀..";
 "Setting_GatewayManagement_RenameAlert_t" = "裝置重新命名失敗";
 "Setting_GatewayManagement_RenameAlert_Confirm" = "確定";
-"Setting_AddPeripheral_Step3_PinCode_d1" = "已找到%@";
-"Setting_AddPeripheral_Step3_PinCode_d2" = "啟用連線加密機制";
-"Setting_AddPeripheral_Step3_PinCode_input" = "輸入裝置Pin碼";
-"Setting_AddPeripheral_Step3_PinCode_d3" = "Pin碼是什麼？";
-"Setting_AddPeripheral_Step3_PinCode_t" = "Pincode";
-"Setting_AddPeripheral_Step3_PinCode_d4" = "每台裝置都有專屬的Pincode來加密裝置連線，你可以在裝置上或者使用者手冊找到它";
-"Setting_AddPeripheral_Step3_PinCode_Failed" = "Pin碼錯誤 請重新輸入";
-"Setting_AddPeripheral_Fail_Conn_Error" = "連線異常";
-"Setting_AddPeripheral_Fail_Peripheral_Not_Found" = "未找到%@裝置";
-"Setting_AddPeripheral_Fail_Reset" = "請將%@重置，並重新設定";
+"Setting_AddPeripheral_Step_PinCode_InputPinCode" = "輸入裝置PinCode";
+"Setting_AddPeripheral_Step_PinCode_WhatisPinCode" = "PinCode是什麼？";
+"Setting_AddPeripheral_Step_PinCode_WhatisPinCode_d" = "每台裝置都有專屬的PinCode來加密裝置連線，你可以在裝置上或者使用者手冊找到它。";
+"Setting_AddPeripheral_Step_PinCode_Error" = "PinCode錯誤，請重新輸入。";
+"Setting_AddPeripheral_Step_PinCode_Fail_ConnectionError" = "連線異常";
+"Setting_AddPeripheral_Step_PinCode_Fail_Peripheral_Not_Found" = "未找到%@裝置";
+"Setting_AddPeripheral_Step_Fail_Reset" = "請將%@重置，並重新設定";
 
 /*This string is incorrect when applying to ∑Central.*/
-/*Fuzzy*/
-"Setting_AddPeripheral_Fail_Exist" = "%@已被配對。";
-"Setting_AddGateway_Step6_d4" = "現在，您可為它新增支援的周邊設備，開啟你的智慧新生活";
-"Setting_AddGatewayDev_Already_Exist" = "ΣCentral已被配對。";
+"Setting_AddPeripheral_Step_Fail_Exist" = "%@已被其他帳戶綁定。";
+"Setting_AddGatewayDev_Already_Exist" = "ΣCentral已被其他帳戶綁定。";
 "Peripheral_Pincode_Error_Warning" = "OOPS!";
 "Peripheral_Pincode_Error_Device_Reset" = "偵測到此設備被重置！";
 "Peripheral_Pincode_Error_Revert" = "  恢復  ";
@@ -392,16 +282,16 @@
 "Peripheral_Revert_Pincode_t" = "恢復加密連線";
 "Peripheral_Revert_Pincode_FindMe" = "找我";
 "Peripheral_Revert_Pincode_d1" = "我們偵測到你的%@被重置，導致加密被清除，請按照以下指示恢復連線";
-"Peripheral_Revert_Pincode_d2" = "請輸入%@的Pin碼";
-"Peripheral_Revert_Pincode_d3" = "產品Pin碼";
-"Peripheral_Revert_Pincode_d4" = "Pincode\nXXX-XXX";
-"Peripheral_Revert_Pincode_d5" = "每台裝置都有專屬Pincode(六碼)來加密裝置連線，你可以在裝置上或者使用手冊找到它";
-"Peripheral_Revert_Pincode_Input_Error" = "Pin碼錯誤，請重新輸入";
+"Peripheral_Revert_Pincode_d2" = "請輸入%@的PinCode";
+"Peripheral_Revert_Pincode_d3" = "產品PinCode";
+"Peripheral_Revert_Pincode_d4" = "PinCode\nXXX-XXX";
+"Peripheral_Revert_Pincode_d5" = "每台裝置都有專屬PinCode(六碼)來加密裝置連線，你可以在裝置上或者使用手冊找到它";
+"Peripheral_Revert_Pincode_Input_Error" = "PinCode錯誤，請重新輸入";
 "Peripheral_Revert_Success_t" = "已重新加密";
 "Peripheral_Revert_Success_d" = "現已恢復使用";
 "Peripheral_Revert_Success_Cont" = "  繼續  ";
 "Peripheral_Pincode_Error_Unknown" = "發生未知錯誤";
-"Peripheral_Revert_Warning_IncorrectLength" = "Pin碼長度錯誤";
+"Peripheral_Revert_Warning_IncorrectLength" = "PinCode長度錯誤";
 "Peripheral_Revert_Warning_Confirm" = "確定";
 "Password_Reset_Back" = "回上頁";
 "Password_Reset_t" = "忘記密碼";
@@ -417,8 +307,6 @@
 "Add_First_Device_Gateway" = "我有ΣCentral，我要新增";
 "Add_First_Device_d" = "探索ΣCasa  找尋自己想要的功能";
 "Settings_Account_Password" = "密碼";
-
-/*Fuzzy*/
 "Settings_Account_ChangePassword_Done" = "完成";
 "Settings_Account_ChangePassword_t" = "密碼更改";
 "Settings_Account_ChangePassword_OldPassword" = "輸入舊密碼";
@@ -429,7 +317,7 @@
 "Settings_Account_ChangePassword_Ummatch" = "密碼不符\n";
 "Settings_Account_ChangePassword_Success" = "密碼更改成功";
 "Settings_Account_ChangePassword_Failed" = "密碼更改失敗";
-"Setting_GatewayManagement_DeleteAlert_t" = "裝置移除失敗";
+"Setting_GatewayManagement_Delete_Gateway_Alert_t" = "移除ΣCentral失敗";
 "Peripheral_Setting_Environment_Notification" = "定期更新歷史資料";
 "Peripheral_Setting_PowerPlug_Notification" = "定期更新歷史資料";
 "Peripheral_Setting_Alert_Failed" = "設定排程失敗";
@@ -441,7 +329,7 @@
 "FAQ_Central_Question_2" = "我買了多台ΣCentral，但已經有點搞亂了，有方便的方式讓我找到對應的每一台嗎？";
 "FAQ_Central_Question_3" = "我要如何移除ΣCentral？";
 "FAQ_Central_Question_4" = "家裡網路換了，我要如何更換ΣCentral連線的Wi-Fi網路？";
-"FAQ_Central_Answer_0" = "請先確認此台ΣCentral 尚未被新增至App過，如果需要重新新增，請至設定頁 > 裝置管理 移除此台ΣCentral 再進行新增的動作。如果您是第一次新增此台ΣCentra，請拔掉電源重新插上，並重複一次新增ΣCentral的步驟。";
+"FAQ_Central_Answer_0" = "請先確認此台ΣCentral 尚未被新增至App過，如果需要重新新增，請至設定頁 > 裝置管理 移除此台ΣCentral 再進行新增的動作。如果您是第一次新增此台ΣCentral，請拔掉電源重新插上，並重複一次新增ΣCentral的步驟。";
 "FAQ_Central_Answer_1" = "表示ΣCentral 目前沒有回應，請先檢查ΣCentral 的電源是否接上，並檢查連線ΣCentral的網路(Wi-Fi)是否運作正常，如果一切正常，請試著將ΣCentral 重新開機.";
 "FAQ_Central_Answer_2" = "請到設定頁 > 裝置管理，點選你要尋找的ΣCentral來開啟子選單，你可以按下”找我”，LED將會持續閃爍讓你方便找尋.";
 "FAQ_Central_Answer_3" = "請到設定頁 > 裝置管理，點選你要移除的ΣCentral，將會開啟子選單讓你移除.\n請注意：移除ΣCentral將會將其連線的ΣCasa 週邊 一同移除，你必須要重新新增它們才能正常使用.";
@@ -449,14 +337,14 @@
 "FAQ_Peripheral_Question_0" = "新增ΣCasa 週邊失敗，顯示未設定成功";
 "FAQ_Peripheral_Question_1" = "是不是可以設定ΣCasa週邊的遠距功能，但我現在ΣCasa週邊只有顯示藍芽連線，離開太遠就會離線，這是為什麼？";
 "FAQ_Peripheral_Question_2" = "ΣCasa週邊 在App界面上顯示紅色燈號(離線)，要如何恢復連線？";
-"FAQ_Peripheral_Question_3" = "ΣCasa週邊按了Reset之後，App為什麼會顯示叫我要輸入Pin碼？";
+"FAQ_Peripheral_Question_3" = "ΣCasa週邊按了Reset之後，App為什麼會顯示叫我要輸入PinCode？";
 "FAQ_Peripheral_Question_4" = "我要如何知道ΣCasa週邊的電量是否足夠？";
 "FAQ_Peripheral_Question_5" = "我買了多台ΣCasa週邊，但已經有點搞亂了，有方便的方式讓我找到對應的每一台嗎？";
 "FAQ_Peripheral_Question_6" = "我要如何移除ΣCasa週邊？";
 "FAQ_Peripheral_Answer_0" = "請檢查是否有以下狀態導致未預期的失敗\n1. ΣCasa週邊的電力有接上 (如果是電池型裝置，請確認電池電力足夠)\n2. ΣCasa週邊需要在ΣCentral 的藍芽範圍內進行安裝 ( 5~10m )，請檢視彼此距離是否過遠\n3. ΣCentral 在正常連線情況下 ( App連線顯示正常 )\n4. 重複一次新增ΣCasa週邊的步驟";
 "FAQ_Peripheral_Answer_1" = "ΣCasa週邊的基本功能，是手機要在ΣCasa週邊的藍芽範圍內連線使用，如果你要使用它的遠距功能，您必須配合ΣCentral的Wi-Fi網路連線來達成。\n當你將ΣCentral配置好後，請到設定頁 > 新增此台ΣCasa週邊，依照安裝步驟指示完成後，你就能遠距查詢該台ΣCasa週邊的數據紀錄，或者遠距控制它.";
-"FAQ_Peripheral_Answer_2" = "表示該台ΣCasa週邊目前沒有回應，請檢查下列狀態\n1.如果你沒有新增該台ΣCasa週邊並與ΣCentral連線，請確認手機是否不在該台ΣCasa週邊的藍芽範圍而導致斷線。\n2.如果你已新增該台ΣCasa週邊並與ΣCentral連線，請檢查ΣCasa週邊 與 ΣCentral彼此在藍芽的有效範圍內。\n3.如果還是不行，請將該台ΣCasa週邊的電力重新接上測試（如果是電池型裝置，如ΣWeather 或ΣDoor，請重新更換電池）";
-"FAQ_Peripheral_Answer_3" = "重置裝置時，加密機制也會一同被解除，因此，要重新使用時，我們需要你重新輸入裝置上的pin碼，以確保你的連線是被加密過的。";
+"FAQ_Peripheral_Answer_2" = "表示該台ΣCasa週邊目前沒有回應，請檢查下列狀態\n1.如果你沒有新增該台ΣCasa週邊並與ΣCentral連線，請確認手機是否不在該台ΣCasa週邊的藍芽範圍而導致斷線。\n2.如果你已新增該台ΣCasa週邊並與ΣCentral連線，請檢查ΣCasa週邊 與 ΣCentral彼此在藍芽的有效範圍內。\n3.如果還是不行，請將該台ΣCasa週邊的電力重新接上測試（如果是電池型裝置，如ΣWeatherCube 或ΣDoor，請重新更換電池）";
+"FAQ_Peripheral_Answer_3" = "重置裝置時，加密機制也會一同被解除，因此，要重新使用時，我們需要你重新輸入裝置上的PinCode，以確保你的連線是被加密過的。";
 "FAQ_Peripheral_Answer_4" = "電池型的ΣCasa週邊如果電量即將不足，在App主頁上，該台裝置左下角會顯示低電量的狀態警告，提醒你該更換新電池.";
 "FAQ_Peripheral_Answer_5" = "請到設定頁 > 裝置管理，點選你要尋找的ΣCasa週邊來開啟子選單，你可以按下”找我”，LED將會持續閃爍讓你方便找尋.";
 "FAQ_Peripheral_Answer_6" = "請到設定頁 > 裝置管理，點選你要移除的ΣCasa週邊，將會開啟子選單讓你移除.";
@@ -468,26 +356,12 @@
 "Schedule_Managemetn_Off" = "關";
 "Schedule_Managemetn_Everyday" = "每天";
 "Schedule_Managemetn_Weekdays" = "平日";
-
-/*Fuzzy*/
 "Schedule_Managemetn_Sunday_s" = "週日";
-
-/*Fuzzy*/
 "Schedule_Managemetn_Monday_s" = "週一";
-
-/*Fuzzy*/
 "Schedule_Managemetn_Tuesday_s" = "週二";
-
-/*Fuzzy*/
 "Schedule_Managemetn_Wednesday_s" = "週三";
-
-/*Fuzzy*/
 "Schedule_Managemetn_Thursday_s" = "週四";
-
-/*Fuzzy*/
 "Schedule_Managemetn_Friday_s" = "週五";
-
-/*Fuzzy*/
 "Schedule_Managemetn_Saturday_s" = "週六";
 "Schedule_Managemetn_Repeat" = "重複";
 "Schedule_Managemetn_Switch" = "開關";
@@ -501,12 +375,12 @@
 "Schedule_Managemetn_Friday" = "星期五";
 "Schedule_Managemetn_Saturday" = "星期六";
 "Schedule_Managemetn_Never" = "永不";
-"Setting_AddPeripheral_Fail_Gateway_Reach_Maximum_Capacity" = "ΣCentral 可新增的週邊裝置數量已達上限";
-"Setting_AddPeripheral_Stand_Alone_Start" = "啟用獨立控制";
-"Setting_AddPeripheral_Stand_Alone_d1" = "在此區域已找到ΣCentral。若要進行遠端控制，請將裝置與ΣCentral保持良好通信距離，按著按返回繼續搜尋";
+"Setting_AddPeripheral_Step_PinCode_Fail_Gateway_Reach_Maximum_Capacity" = "ΣCentral 可新增的週邊裝置數量已達上限。";
+"Setting_AddPeripheral_Stand_Alone_Start" = "或 啟用獨立控制";
+"Setting_AddPeripheral_Stand_Alone_d1" = "在此區域已找到ΣCentral。若要進行遠端控制，請將裝置與ΣCentral保持良好通信距離，按著按返回繼續搜尋。";
 "Setting_AddPeripheral_Stand_Alone_d2" = "獨立控制模式僅限於近距離的裝置操控";
 "Setting_AddPeripheral_Stand_Alone_d3" = "按「確定」啟用獨立控制";
-"Setting_AddPeripheral_Invalid_Pincode_Length" = "Pincode 長度錯誤";
+"Setting_AddPeripheral_Invalid_Pincode_Length" = "PinCode 長度錯誤";
 "Schedule_Managemetn_At_Least_OneDay" = "請至少選擇一天。";
 "Device_MainView_RegionGatewayAllDisconnected" = "中斷連線";
 "Device_MainView_RegionGatewayPartialConnected" = "部份已連線";
@@ -518,6 +392,258 @@
 "Setting_UnitPage_Distance_Kilometer" = "公里 km";
 "Setting_UnitPage_Distance_Mile" = "英里 mi";
 "Device_MainView_RegionGatewayDistance_MileShort" = "英里";
-"Setting_AddPeripheral_Connect_BLE" = "連結";
 "Peripheral_Revert_Warning" = "提醒";
 "Peripheral_Revert_Warning_POffline" = "無法與裝置連結";
+"Peripheral_setting_Alert_Warning" = "提醒";
+"Peripheral_setting_Alert_StandAlone_Doesnot_Support" = "獨立控制裝置不支援排程設定";
+"Setting_GatewayManagement_GControl_Info" = "資訊";
+"Setting_GatewayManagement_PControl_Info" = "資訊";
+"Setting_GatewayManagement_GFirmwareVersion" = "韌體版本";
+"Setting_GatewayManagement_PFirmwareVersion" = "韌體版本";
+"Setting_ContactUs_UserDevice" = "使用裝置";
+"Setting_ContactUs_APPVersion" = "版本";
+"Setting_ContactUs_UserDevice_Unknown_model" = "未知裝置";
+"Setting_ContactUs_UserDevice_Unknown_systemName" = "未知作業系統";
+"Setting_ContactUs_UserDevice_Unknown_OSVersion" = "未知作業系統版本";
+"Setting_ContactUs_UserDevice_Unknown_APPVersion" = "未知版本";
+"Schedule_Edit_Schedule_t" = "編輯排程";
+"Schedule_Managemetn_Delete" = "刪除";
+"Setting_AddGatewayDev_RegionName_Already_Exist" = "區域名稱已存在";
+"Setting_AddPeripheral_SmokeName" = "ΣSmoke";
+"Setting_AddPeripheral_ShockName" = "ΣShock";
+"Setting_AddPeripheral_SmokeDescription" = "隨時隨地掌握家中看不見的危險，智慧又安心的煙霧、火災偵測。";
+"Setting_AddPeripheral_SmokeDescription_h" = "居家安全的防災幫手";
+"Setting_AddPeripheral_ShockDescription" = "精巧的震動感測器可配置在窗戶上。有了它，試圖破窗的不速之客們再也不得其門而入。";
+"Setting_AddPeripheral_ShockDescription_h" = "震動破壞的防盜者";
+"Device_GroupControl_SmokeName" = "ΣSmokeDetector";
+"SmokeDetector_Cell_Normal" = "安全";
+"SmokeDetector_Cell_Smoke" = "煙霧警報";
+"SmokeDetector_Cell_Fire" = "火災警報";
+"SmokeDetector_Cell_Tempered" = "裝置脫落";
+"SmokeDetector_Cell_Malfunction" = "裝置故障";
+"SmokeDetector_Cell_TriggerAlarm" = "啟動警鈴";
+"Peripheral_Setting_Smoke_Alert_Notification" = "煙霧偵測環境異常發送通知";
+"Peripheral_Setting_Smoke_Warning_Notification" = "煙霧偵測器異常發送通知";
+"Event_history_title_schedule" = "排程";
+"Event_history_title_history" = "紀錄";
+"Event_history_state_switch_open" = "開啟";
+"Event_history_state_switch_close" = "關閉";
+"Event_history_state_powerplug_on" = "開啟";
+"Event_history_state_powerplug_off" = "關閉";
+"Event_history_state_lightbulb_on" = "開啟";
+"Event_history_state_lightbulb_off" = "關閉";
+"Event_history_state_smoke_normal" = "安全";
+"Event_history_state_smoke_smoke" = "煙霧偵測";
+"Event_history_state_smoke_fire" = "火警偵測";
+"Event_history_state_smoke_tempered" = "脫落";
+"Event_history_state_smoke_malfunction" = "故障";
+"Event_history_state_unknown" = "狀態未知";
+"Device_GroupControl_ShockName" = "ΣShockSensor";
+"Peripheral_Setting_Shock_Notification" = "震動偵測自動傳送通知到手機";
+"ShockDetector_Cell_Normal" = "正常";
+"ShockDetector_Cell_Tempered" = "裝置脫落";
+"ShockDetector_Cell_light_shock" = "輕微震動";
+"ShockDetector_Cell_strong_shock" = "強烈震動";
+"Event_history_state_shock_normal" = "安全";
+"Event_history_state_shock_strong_shock" = "強烈震動";
+"Event_history_state_shock_light_shock" = "輕微震動";
+"PowerPlug_Cell_CurrentMonth" = "本月";
+"PowerPlug_Cell_Accumulation" = "目前累計";
+"PowerPlug_Cell_Electric_Expense" = "輸入電費";
+"PowerPlug_Cell_CompareLastMonth" = "相較上月";
+"PowerPlug_Cell_Region_Electric_Expense_hint" = "輸入您所在區域每度電所需費用。";
+"PowerPlug_Cell_Electric_Expense_Done" = "好";
+"PowerPlug_Cell_Electric_Expense_Cancel" = "取消";
+"Device_Press_Backkey_Logout_t" = "使用者登出";
+"Device_Press_Backkey_Logout_d" = "確定登出?";
+"PowerPlug_Cell_Electric_Expense_Edit" = "更改電費";
+"Device_MainView_RegionGatewayUpdating" = "韌體更新中...";
+"Setting_AddPeripheral_FirmwareUpdate" = "ΣCentral 韌體更新中，它將會花費幾分鐘的時間，請靜待更新完成後再試。";
+"Device_MainView_Null_EventHistory" = "尚未觸發任何歷史事件";
+"Device_MainView_Confirm" = "確認";
+"Setting_AddPeripheral_Cancel" = "取消";
+"Setting_AddPeripheral_NoGPS_t" = "定位開啟";
+"Setting_AddPeripheral_Location_Confirm_t" = "確認地點";
+"Setting_AddPeripheral_Location_Confirm_d" = "我們無法判斷目前您在何處，請選擇你要新增%@的地點：";
+"Setting_AddPeripheral_Step_Install_SmokeDetector" = "將底盤鎖緊在您要安裝的天花板位置，並將ΣSmokeDetector旋轉定在底盤上，確保它不會脫落。";
+"Setting_AddPeripheral_Step_Install_ShockDetector" = "請將ΣShockSensor安裝在你要偵測的窗戶上緊黏。";
+"Setting_AddGatewayDev_Already_InUserAcc" = "ΣCentral 已綁定此帳戶";
+"Setting_GatewayManagement_Delete_Peripheral_Alert_t" = "移除裝置失敗";
+"Setting_AddPeripheral_Step_Within_10Meter_t" = "與ΣCentral距離";
+"Setting_AddPeripheral_Step_Within_10Meter_d" = "請確認%@與ΣCentral保持10公尺以內有效距離。";
+"Setting_AddPeripheral_Distance_Range" = "10公尺以內";
+"Setting_AddPeripheral_Step_Searching_t" = "與系統搜尋中…";
+"Setting_AddPeripheral_Step_Reset_SmokeDetector" = "確認有供電之後，請按住ΣSmokeDetector的鈕三秒，直到藍色LED燈閃爍為⽌。";
+"Setting_AddPeripheral_Step_Reset_ShockSensor" = "確認有供電之後,請按住ΣShockSensor的鈕三秒，直到LED燈閃爍為⽌。";
+"Setting_AddPeripheral_Step_Install_t" = "安裝%@";
+"Setting_AddPeripheral_Fail_ShockDetector_t" = "ΣShockSensor\n未設定成功";
+"Setting_AddPeripheral_Fail_SmokeDetector_t" = "ΣSmokeDetector\n未設定成功";
+"Setting_AddPeripheral_Paring_Light_t" = "配對ΣLight";
+"Setting_AddPeripheral_Paring_Light_Step1" = "將ΣLight如圖擺放，並選取切換器目前所在位置。";
+"Setting_AddPeripheral_Paring_Light_Step2" = "將ΣLight上的切換器從%@撥至%@，接著進行下一步。";
+"Setting_AddPeripheral_Paring_Light_Step2_Left" = "左邊";
+"Setting_AddPeripheral_Paring_Light_Step2_Right" = "右邊";
+"Setting_AddPeripheral_Step_PinCode_t" = "連線加密";
+"Setting_AddPeripheral_Step_PinCode_d" = "已找到%@\n啟用連線加密機制";
+"Setting_AddPeripheral_Step_Fail_t" = "未設定成功";
+"Setting_AddPeripheral_Step_PinCode_PinCodeChecking" = "PinCode核對中，請稍候…";
+"Setting_AddPeripheral_Step_Location_with_Location_t" = "地點配置";
+"Setting_AddPeripheral_Step_Location_with_Location_d" = "此%@\n將配置到%@這個地點";
+"Setting_AddPeripheral_Step_Location_Null_Location_d" = "此%@\n尚未被配置到任何地點";
+"Setting_AddPeripheral_Step_Reset_t" = "安裝%@";
+"Setting_AddPeripheral_Step_Location_Null_Location_t" = "加入地點";
+"Setting_AddPeripheral_Step_Set_DeviceName_t" = "裝置命名";
+"Setting_AddPeripheral_Step_Set_DeviceName_d" = "現在可以為你的%@\n設定名稱";
+"Setting_AddPeripheral_Step_Set_DeviceName_InputField_d" = "輸入名稱";
+"Setting_AddPeripheral_Step_Finish_Done" = "完成";
+"Setting_AddPeripheral_Step_Set_DeviceName_Naming" = "裝置命名中，請稍候…";
+"Setting_AddPeripheral_NoGPS_Sub_t" = "新增%@需要目前地點資訊，請打開「定位」功能並按下一步。";
+"Setting_AddPeripheral_NoGPS_d1" = "1. 打開「設定」";
+"Setting_AddPeripheral_NoGPS_d2" = "2. 打開「隱私權設定」";
+"Setting_AddPeripheral_NoGPS_d3" = "3. 確定開啟「定位」功能";
+"Setting_AddPeripheral_NoGPS_d4" = "4. 往下滑至此App定位";
+"Setting_AddPeripheral_NoGPS_d5" = "5. 確定此App的定位開啟";
+"Setting_AddGateway_NoGPS_t" = "定位開啟";
+"Setting_AddGateway_Step_Setup_t" = "確認安裝位置";
+"Setting_AddGateway_Step_Setup_d" = "請將ΣCentral放置於家中的中央處以保持與其他連線裝置通信良好，完成請按下一步。";
+"Setting_AddGateway_Step_Get_Broadcast_t" = "安裝導引";
+"Setting_AddGateway_Step_Get_Broadcast_d" = "確認接好ΣCentral的電源後，請按住ΣCentral中間鈕3秒直到顯示燈快速閃爍。";
+"Setting_AddGateway_Step_WIFI_Setting_t" = "WiFi配置";
+"Setting_AddGateway_Step_WIFI_Setting_Default" = "你目前選擇了網路連線\n「%@」";
+"Setting_AddGateway_Step_WIFI_Setting_d" = "你要把新的ΣCentral配置到這個網路來做控制嗎？";
+"Setting_AddGateway_Step_WIFI_Setting_Select_Other" = "我要選擇別的網路";
+"Setting_AddGateway_Step_WIFI_Select_t" = "選擇網路";
+"Setting_AddGateway_Step_WIFI_Setting_Network_Setting" = "ΣCentral網路設定中…";
+"Setting_AddGateway_Step_WIFI_Select_Network_Select" = "選擇網路…";
+"Setting_AddGateway_Step_Location_with_Location_t" = "地點配置";
+"Setting_AddGateway_Step_Location_Null_Location_t" = "新增地點";
+"Setting_AddGateway_Step_Location_with_Location_d" = "此ΣCentral\n將被配置到%@這個地點";
+"Setting_AddGateway_Step_Location_Null_Location_d" = "此ΣCentral\n尚未被配置到任何地點";
+"Setting_AddGateway_Step_Location_Null_Location_InputField_d" = "輸入地點名稱";
+"Setting_AddGateway_Step_Set_DeviceName_t" = "ΣCentral命名";
+"Setting_AddGateway_Step_Set_DeviceName_d" = "現在可以為你的ΣCentral\n設定名稱";
+"Setting_AddGateway_Step_Set_DeviceName_InputField_d" = "輸入名稱";
+"Setting_AddGateway_Step_Set_DeviceName_DeviceName_Setting" = "ΣCentral名稱設定中…";
+"Setting_AddGateway_Step_Setting_t" = "伺服器連線中";
+"Setting_AddGateway_Step_Setting_d" = "你在%@\n新安裝的%@資料\n正與伺服器同步連線中…";
+"Setting_AddGateway_Step_Result_Success_t" = "設定完成";
+"Setting_AddGateway_Step_Result_Success_d" = "現在，你可以在ΣCentral新增週邊裝置，開啟你的智慧生活。";
+"Setting_AddGateway_Step_Result_Fail_t" = "未設定成功";
+"Setting_AddGateway_Step_Result_Fail_d" = "App無法偵測到任何回應\n請參考FAQ來解決問題";
+"Setting_AddGateway_Step_Result_Success_Done" = "完成";
+"Setting_MainPage_WidgetSetting" = "Widget 設定";
+"Setting_GatewayManagement_GControl_ChangeWifi_Result_d" = "WiFi重新設定完成。";
+"Setting_Widget_activedPage_label" = "目前Widget功能尚未啟用";
+"Setting_Widget_activedPage_activeBtn" = "啟用Widget";
+"Setting_Widget_activedPage_helpBtn" = "使用教學";
+"Setting_Widget_helpPage_btn" = "關閉";
+"Setting_Widget_helpStep1_title" = "如何使用\nΣ CASA`s Widget.";
+"Setting_Widget_helpStep1_label" = "在任何時候，只要從屏幕上方邊緣，往下拉出iOS內建通知選單";
+"Setting_Widget_helpStep2_title" = "打開通知中心";
+"Setting_Widget_helpStep2_label" = "選擇Today，並向下滑至底部\n並點選編輯按鈕";
+"Setting_Widget_helpStep3_title" = "加入Widget顯示清單";
+"Setting_Widget_helpStep3_label" = "將ΣCASA加入到上方的清單裡";
+"Setting_Widget_helpStep4_title" = "設定完成";
+"Setting_Widget_helpStep4_label" = "現在馬上來設定ΣCASA的Widget來使用吧";
+"Setting_Widget_action_Skip" = "跳過";
+"Setting_Widget_action_Done" = "完成";
+"Setting_Widget_pwPage1_Title" = "設定隱私密碼";
+"Setting_Widget_PassWordSetup" = "設定密碼";
+"Setting_Widget_pwpage1_Detail" = "密碼將保護你的Widget內容\n在手機未解鎖前，不被陌生人看到";
+"Setting_Widget_pwPage2_Title" = "請重複確認密碼";
+"Setting_Widget_pwpage2_Detail" = "確認你的密碼輸入正確";
+"Setting_Widget_pwPage2_Detail_wrong" = "密碼有誤，請重新輸入";
+"Setting_Widget_userChoosePgae_t" = "快捷控制";
+"Setting_Widget_userChoosePgae_d" = "你可以在Widget上檢視控制這些設備";
+"Setting_Widget_userChoosePgae_zeroDevice" = "您尚未選擇任何裝置";
+"Setting_Widget_allControlDevice_navTitle" = "選擇裝置";
+"Setting_Widget_allControlDevice_t" = "選擇在Widget上要檢視控制的設備";
+"Setting_Widget_allControlDevice_Segment0" = "裝置";
+"Setting_Widget_allControlDevice_Segment1" = "群組";
+"Setting_Widget_config_groupTitle1" = "隱私設定";
+"Setting_Widget_config_groupTitle2" = "其他設定";
+"Setting_Widget_config_privateOption" = "密碼保護";
+"Setting_Widget_config_changePassword" = "更改密碼";
+"Setting_Widget_config_closeWidget" = "關閉Widget";
+"Setting_Widget_config_closeWidget_alert_d" = "Widget將停止顯示設備內容，如果要重新顯示，請回到Setting重新啟用Widget";
+"Setting_Widget_config_closeWidget_alert2_t" = "我們發現你尚未設定過密碼";
+"Setting_Widget_config_closeWidget_alert2_d" = "你現在要為Widget設定你的隱私密碼？";
+"Widget_mainPage_loading" = "Widget同步資料中...";
+"Widget_mainPage_item_offline" = "離線";
+"Widget_mainPage_group_empty" = "群組內無裝置";
+"Widget_mainPage_offline" = "無網路連線";
+"Widget_mainPage_offline_d" = "請檢查網路連線確保Widget能正常使用";
+"Widget_mainPage_title" = "快捷控制";
+"Widget_password_enter" = "請輸入密碼";
+"Widget_password_wrong" = "密碼錯誤";
+"Widget_password_clear" = "刪除";
+"Widget_openApp" = "開啟App";
+"Widget_needActive_t" = "你尚未啟用Widget";
+"Widget_needActive_d" = "請打開APP\n選擇設定 >  Widget設定 > 啟用Widget";
+"Widget_lockWidget_t" = "Widget已鎖住";
+"Widget_lockWidget_d" = "你輸入密碼錯誤超過三次\n請登入App的會員帳號來恢復";
+"Device_MainView_Tab_JobLink" = "工作排程";
+"JobLink_MainPage_t" = "ΣCasa Link";
+"JobLink_CreateFirstJob_t" = "ΣCasa Link";
+"JobLink_CreateFirstJob_Button_d" = "自訂 Link";
+"JobLink_CreateFirstJob_d" = "智慧家庭的連動機制\n自己組合 創意無限";
+"JobLink_CreateNewJob_Condition_Temperature_Higher_Than" = "太熱";
+"JobLink_CreateNewJob_Condition_Temperature_Lower_Than" = "太冷";
+"JobLink_CreateNewJob_Condition_Humidity_Higher_Than" = "太濕";
+"JobLink_CreateNewJob_Condition_Humidity_Lower_Than" = "太乾";
+"JobLink_CreateNewJob_Condition_PowerPlug_On" = "電源開啟";
+"JobLink_CreateNewJob_Condition_PowerPlug_Off" = "電源關閉";
+"JobLink_CreateNewJob_Condition_Location_Near" = "當我抵達";
+"JobLink_CreateNewJob_Condition_Location_Away" = "當我離開";
+"JobLink_CreateNewJob_Condition_Light_On" = "開啟";
+"JobLink_CreateNewJob_Condition_Light_Off" = "關閉";
+"JobLink_CreateNewJob_Condition_Switch_Open" = "打開";
+"JobLink_CreateNewJob_Condition_Switch_Close" = "關閉";
+"JobLink_CreateNewJob_Condition_Smoke_Tempered" = "裝置脫落";
+"JobLink_CreateNewJob_Condition_Smoke_Smoke" = "偵測到煙霧";
+"JobLink_CreateNewJob_Condition_Smoke_Malfunction" = "裝置故障";
+"JobLink_CreateNewJob_Condition_Smoke_Fire" = "偵測到火災";
+"JobLink_CreateNewJob_Condition_Smoke_Normal" = "安全狀態";
+"JobLink_CreateNewJob_Condition_Shock_Tempered" = "裝置脫落";
+"JobLink_CreateNewJob_Condition_Shock_Normal" = "安全狀態";
+"JobLink_CreateNewJob_Condition_Shock_Strong_Shock" = "強烈振動";
+"JobLink_CreateNewJob_Condition_Shock_Light_Shock" = "輕微振動";
+"JobLink_CreateNewJob_t" = "自訂 Link";
+"JobLink_CreateNewJob_If_t" = "條件";
+"JobLink_CreateNewJob_Then_t" = "觸發";
+"JobLink_CreateNewJob_LocationName" = "位置";
+"Event_history_schedule_t" = "排程";
+"Event_history_history_t" = "紀錄";
+"Schedule_Managemetn_Sunday_Single" = "日";
+"Schedule_Managemetn_Monday_Single" = "一";
+"Schedule_Managemetn_Tuesday_Single" = "二";
+"Schedule_Managemetn_Wednesday_Single" = "三";
+"Schedule_Managemetn_Thursday_Single" = "四";
+"Schedule_Managemetn_Friday_Single" = "五";
+"Schedule_Managemetn_Saturday_Single" = "六";
+"Schedule_Managemetn_EveryWeek" = "每週";
+"SignUp_Terms_of_service" = "條款服務";
+"SignUp_User_Privacy_Policy" = "使用者隱私政策";
+"JobLink_CreateNewJob_Execution_PowerPlug_On" = "電源開啟";
+"JobLink_CreateNewJob_Execution_PowerPlug_Off" = "電源關閉";
+"JobLink_CreateNewJob_Execution_Light_On" = "開啟";
+"JobLink_CreateNewJob_Execution_Light_Off" = "關閉";
+"JobLink_CreateNewJob_Execution_Smoke_Alarm" = "啟動警鈴";
+"JobLink_CreateNewJob_Execution_Inlet_On" = "開啟";
+"JobLink_CreateNewJob_Execution_Inlet_Off" = "關閉";
+"JobLink_CreateNewJob_Devices_NonExist" = "您尚未擁有此項裝置";
+"JobLink_CreateNewJob_Save" = "儲存";
+"JobLink_Detail_Setting_Time_t" = "啟用時間";
+"JobLink_Detail_Setting_Time_Allday" = "全時段";
+"JobLink_Detail_Setting_Time_Starts" = "開始於";
+"JobLink_Detail_Setting_Time_Ends" = "結束";
+"JobLink_Detail_Setting_Time_Repeat" = "重複";
+"JobLink_Detail_Setting_Device_Select" = "請選擇你的%@";
+"JobLink_CreateNewJob_Condition_Temperature_Higher_Than_Setting" = "溫度高於";
+"JobLink_CreateNewJob_Condition_Temperature_Lower_Than_Setting" = "溫度低於";
+"JobLink_CreateNewJob_Condition_Humidity_Higher_Than_Setting" = "濕度高於";
+"JobLink_CreateNewJob_Condition_Humidity_Lower_Than_Setting" = "濕度低於";
+"JobLink_Detail_Setting_Region_Select" = "請選擇您現有ΣCasa的地點";
+"JobLink_Detail_Setting_Distance_Select" = "請選擇設定距離";
+"JobLink_CreateNewJob_Condition_Inlet_On" = "開啟";
+"JobLink_CreateNewJob_Condition_Inlet_Off" = "關閉";
